@@ -41,7 +41,7 @@ const { judge } = Astro.props;
           {judge.slots.map((slot) => (
             <tr>
               <td>{slot.time}</td>
-              <td>{slot.degreeProgram}: {slot.projectTitle}</td>
+              <td><a href={`/FA25/projects/${slot.projectSlug}/`}>{slot.degreeProgram}: {slot.projectTitle}</a></td>
             </tr>
           ))}
         </tbody>

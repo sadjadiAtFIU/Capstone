@@ -22,6 +22,7 @@ PROJECTS_CSV = RAW / "projects.csv"
 JUDGES_CSV = RAW / "judges.csv"
 JUDGE_ASSIGNMENTS_XLSX = RAW / "Projects-Assigned-to-Judges-2.xlsx"
 CAP1_ASSIGNMENTS_XLSX = RAW / "Projects-Assigned-to-CapstoneI.xlsx"
+CAP1_TEAMS_XLSX = RAW / "Fall 2025 - Cap 1.xlsx"
 
 
 FINAL_TITLE_KEY = (
@@ -45,6 +46,23 @@ def clean_text(text: str) -> str:
     text = text.replace("\u200b", "")
     text = re.sub(r"\s+", " ", text)
     return text.strip()
+
+
+def normalize_display_name(text: str) -> str:
+    text = clean_text(text)
+    if not text:
+        return text
+
+    parts = [part.strip() for part in text.split(",")]
+    parts = [part for part in parts if part]
+
+    def fix_case(value: str) -> str:
+        if value == value.lower() or value == value.upper():
+            return " ".join(segment.capitalize() for segment in value.split())
+        return value
+
+    parts = [fix_case(part) for part in parts]
+    return ", ".join(parts)
 
 
 def split_people(text: str) -> list[str]:
@@ -103,7 +121,9 @@ def read_judges() -> list[dict]:
 
     judges: OrderedDict[str, dict] = OrderedDict()
     for row in rows:
-        name = f"{clean_text(row.get('Last Name', ''))}, {clean_text(row.get('First Name', ''))}".strip(", ")
+        name = normalize_display_name(
+            f"{clean_text(row.get('Last Name', ''))}, {clean_text(row.get('First Name', ''))}"
+        ).strip(", ")
         key = name.lower()
         if key in judges:
             continue
@@ -183,7 +203,7 @@ def read_xlsx_rows(path: Path, sheet_name: str = "Form Responses 1") -> list[dic
 def parse_assignment_rows(path: Path) -> OrderedDict[str, list[dict]]:
     assignments: OrderedDict[str, list[dict]] = OrderedDict()
     for row in read_xlsx_rows(path):
-        name = clean_text(row.get("Name", ""))
+        name = normalize_display_name(row.get("Name", ""))
         if not name:
             continue
         slots = assignments.setdefault(name, [])
@@ -192,9 +212,14 @@ def parse_assignment_rows(path: Path) -> OrderedDict[str, list[dict]]:
             project_title = clean_text(row.get(f"{label} Project", ""))
             if not session and not project_title:
                 continue
+            slot_time = {
+                "First": "2:00 to 2:30 pm",
+                "Second": "2:30 to 3:00 pm",
+                "Third": "3:00 to 3:30 pm",
+            }[label]
             degree_program, _, session_project = session.partition(": ")
             slot = {
-                "time": "",
+                "time": slot_time,
                 "projectSlug": slugify(project_title or session_project),
                 "projectTitle": project_title or clean_text(session_project),
                 "degreeProgram": clean_text(degree_program),
@@ -204,9 +229,24 @@ def parse_assignment_rows(path: Path) -> OrderedDict[str, list[dict]]:
     return assignments
 
 
+def read_cap1_team_name_map() -> dict[str, str]:
+    name_map = {}
+    for row in read_xlsx_rows(CAP1_TEAMS_XLSX, sheet_name="Teams"):
+        email = clean_text(row.get("Email", "")).lower()
+        name = normalize_display_name(row.get("Name", ""))
+        if email and name:
+            name_map[email] = name
+    return name_map
+
+
 def read_capstone1_assignments() -> list[dict]:
     assignments = parse_assignment_rows(CAP1_ASSIGNMENTS_XLSX)
-    return [{"name": name, "slots": slots} for name, slots in assignments.items()]
+    email_map = read_cap1_team_name_map()
+    students = []
+    for name, slots in assignments.items():
+        display_name = email_map.get(name.lower(), name) if "@" in name else name
+        students.append({"name": display_name, "slots": slots})
+    return students
 
 
 def merge_judge_assignments(judges: list[dict]) -> list[dict]:

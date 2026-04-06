@@ -47,4 +47,23 @@ if (semester !== "FA25") {
       </article>
     </div>
   </section>
+  <section class="shell" style="padding-top: 1.25rem;">
+    <div class="panel">
+      <p class="eyebrow">Featured</p>
+      <h2>Sample of the Fall 2025 projects</h2>
+      <div class="semester-list">
+        {projects.slice(0, 8).map((project) => (
+          <a class="semester-card" href={`/FA25/projects/${project.slug}/`}>
+            <div class="meta">
+              <span class="pill">{project.degreeProgram}</span>
+            </div>
+            <div>
+              <h3>{project.title}</h3>
+              <p>{project.shortDescription}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
 </BaseLayout>

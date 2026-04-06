@@ -37,7 +37,7 @@ const { student } = Astro.props;
         <tbody>
           {student.slots.map((slot) => (
             <tr>
-              <td>{slot.degreeProgram}: {slot.projectTitle}</td>
+              <td><a href={`/FA25/projects/${slot.projectSlug}/`}>{slot.degreeProgram}: {slot.projectTitle}</a></td>
             </tr>
           ))}
         </tbody>

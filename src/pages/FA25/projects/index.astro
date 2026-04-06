@@ -27,7 +27,7 @@ import projects from "../../../../data/semesters/FA25/projects.json";
           {projects.map((project) => (
             <tr>
               <td>{project.degreeProgram}</td>
-              <td>{project.title}</td>
+              <td><a href={`/FA25/projects/${project.slug}/`}>{project.title}</a></td>
               <td>{project.shortDescription}</td>
             </tr>
           ))}
@@ -40,11 +40,12 @@ import projects from "../../../../data/semesters/FA25/projects.json";
       {projects.map((project) => (
         <article class="panel" id={project.slug}>
           <p class="eyebrow">{project.degreeProgram}</p>
-          <h2>{project.title}</h2>
+          <h2><a href={`/FA25/projects/${project.slug}/`}>{project.title}</a></h2>
           <p>{project.shortDescription}</p>
           <p><strong>Team:</strong> {project.teamMembers.join(", ")}</p>
           <p><strong>Product Owner / Mentor:</strong> {project.productOwners.join(", ")}</p>
           <div class="actions">
+            <a class="button" href={`/FA25/projects/${project.slug}/`}>Details</a>
             {project.posterUrl && <a class="button secondary" href={project.posterUrl} target="_blank">Poster</a>}
             {project.documentationUrl && <a class="button secondary" href={project.documentationUrl} target="_blank">Documentation</a>}
             {project.slidesUrl && <a class="button secondary" href={project.slidesUrl} target="_blank">Slides</a>}

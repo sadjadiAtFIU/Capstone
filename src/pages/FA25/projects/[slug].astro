@@ -1,0 +1,77 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import semesterMeta from "../../../../data/semesters/FA25/semester.json";
+import projects from "../../../../data/semesters/FA25/projects.json";
+import judges from "../../../../data/semesters/FA25/judges.json";
+import capstone1 from "../../../../data/semesters/FA25/capstone1.json";
+
+export async function getStaticPaths() {
+  return projects.map((project) => ({
+    params: { slug: project.slug },
+    props: { project }
+  }));
+}
+
+const { project } = Astro.props;
+const assignedJudges = judges.filter((judge) =>
+  judge.slots.some((slot) => slot.projectSlug === project.slug)
+);
+const assignedCapstone1 = capstone1.filter((student) =>
+  student.slots.some((slot) => slot.projectSlug === project.slug)
+);
+---
+<BaseLayout title={`${project.title} | ${semesterMeta.title}`}>
+  <section class="hero">
+    <div class="shell">
+      <div class="hero-card">
+        <p class="eyebrow">{project.degreeProgram}</p>
+        <h1>{project.title}</h1>
+        <p class="lede">{project.shortDescription}</p>
+        <div class="actions">
+          <a class="button secondary" href="/FA25/projects/">All Projects</a>
+          {project.posterUrl && <a class="button" href={project.posterUrl} target="_blank">Poster</a>}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="shell">
+    <div class="grid cards">
+      <article class="panel">
+        <p class="eyebrow">Team</p>
+        <h2>{project.teamMembers.length}</h2>
+        <p>{project.teamMembers.join(", ")}</p>
+      </article>
+      <article class="panel">
+        <p class="eyebrow">Judges Assigned</p>
+        <h2>{assignedJudges.length}</h2>
+        <p>{assignedJudges.map((judge) => judge.name).join(", ") || "None listed"}</p>
+      </article>
+      <article class="panel">
+        <p class="eyebrow">Capstone I Visitors</p>
+        <h2>{assignedCapstone1.length}</h2>
+        <p>{assignedCapstone1.slice(0, 6).map((student) => student.name).join(", ")}{assignedCapstone1.length > 6 ? ", ..." : ""}</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="shell" style="padding-top: 1.25rem;">
+    <div class="grid cards">
+      <article class="panel">
+        <p class="eyebrow">Mentors</p>
+        <h2>Product Owner / Mentor</h2>
+        <p>{project.productOwners.join(", ") || "Not listed"}</p>
+      </article>
+      <article class="panel">
+        <p class="eyebrow">Artifacts</p>
+        <h2>Public Materials</h2>
+        <div class="actions">
+          {project.documentationUrl && <a class="button secondary" href={project.documentationUrl} target="_blank">Documentation</a>}
+          {project.slidesUrl && <a class="button secondary" href={project.slidesUrl} target="_blank">Slides</a>}
+          {project.introVideoUrl && <a class="button secondary" href={project.introVideoUrl} target="_blank">Intro Video</a>}
+          {project.demoVideoUrl && <a class="button secondary" href={project.demoVideoUrl} target="_blank">Demo Video</a>}
+        </div>
+      </article>
+    </div>
+  </section>
+</BaseLayout>
