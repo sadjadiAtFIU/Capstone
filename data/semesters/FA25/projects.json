@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "title": "AI Medical Diagnosis Assistant",
+    "slug": "ai-medical-diagnosis-assistant",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "Sample migrated project record from the Fall 2025 showcase to validate the new data model and page structure.",
+    "teamMembers": ["Sample Team Member A", "Sample Team Member B"]
+  },
+  {
+    "id": "p2",
+    "title": "Deploying a SIEM in Microsoft Azure",
+    "slug": "deploying-a-siem-in-microsoft-azure",
+    "degreeProgram": "Cybersecurity",
+    "shortDescription": "Sample migrated cybersecurity project used for the first judge assignment page in the new site.",
+    "teamMembers": ["Sample Team Member C", "Sample Team Member D"]
+  },
+  {
+    "id": "p3",
+    "title": "Green Vault",
+    "slug": "green-vault",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "Sample migrated project record showing how a semester can mix multiple programs in one showcase site.",
+    "teamMembers": ["Sample Team Member E", "Sample Team Member F"]
+  }
+]

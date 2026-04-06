@@ -1,0 +1,50 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import semesterMeta from "../../../data/semesters/FA25/semester.json";
+import projects from "../../../data/semesters/FA25/projects.json";
+import judges from "../../../data/semesters/FA25/judges.json";
+import capstone1 from "../../../data/semesters/FA25/capstone1.json";
+
+export async function getStaticPaths() {
+  return [{ params: { semester: "FA25" } }];
+}
+
+const { semester } = Astro.params;
+
+if (semester !== "FA25") {
+  throw new Error(`Unsupported semester route: ${semester}`);
+}
+---
+<BaseLayout title={`${semesterMeta.title} | FIU Capstone Showcase`}>
+  <section class="hero">
+    <div class="shell">
+      <div class="hero-card">
+        <p class="eyebrow">{semesterMeta.code}</p>
+        <h1>{semesterMeta.title}</h1>
+        <p class="lede">{semesterMeta.notes}</p>
+        <div class="actions">
+          <a class="button" href={`/${semesterMeta.code}/projects/`}>Projects</a>
+          <a class="button secondary" href={`/${semesterMeta.code}/judges/`}>Judges</a>
+          <a class="button secondary" href={`/${semesterMeta.code}/capstone1/`}>Capstone I</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="shell">
+    <div class="grid cards">
+      <article class="panel">
+        <p class="eyebrow">Projects</p>
+        <h2>{projects.length}</h2>
+      </article>
+      <article class="panel">
+        <p class="eyebrow">Judges</p>
+        <h2>{judges.length}</h2>
+      </article>
+      <article class="panel">
+        <p class="eyebrow">Capstone I Students</p>
+        <h2>{capstone1.length}</h2>
+      </article>
+    </div>
+  </section>
+</BaseLayout>

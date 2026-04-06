@@ -1,0 +1,20 @@
+{
+  "code": "FA25",
+  "season": "Fall",
+  "year": 2025,
+  "title": "Fall 2025 Capstone Showcase",
+  "eventMode": "in-person",
+  "assignmentsPublic": true,
+  "judgesPublic": true,
+  "stats": {
+    "projects": 3,
+    "judges": 3,
+    "capstone1Students": 3
+  },
+  "notes": "Initial migration sample based on the manually generated Fall 2025 site and local semester archive.",
+  "featuredProjects": [
+    "ai-medical-diagnosis-assistant",
+    "deploying-a-siem-in-microsoft-azure",
+    "green-vault"
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Allala, Sai Chaithra",
+    "slots": [
+      {
+        "time": "2:00 to 2:30 pm",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "2:30 to 3:00 pm",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "3:00 to 3:30 pm",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Arrieta, Sebastian",
+    "slots": [
+      {
+        "time": "2:00 to 2:30 pm",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Bartolini, Daniel",
+    "slots": [
+      {
+        "time": "2:00 to 2:30 pm",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  }
+]

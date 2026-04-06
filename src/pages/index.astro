@@ -1,0 +1,80 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getSemesters } from "../lib/site";
+
+const semesters = await getSemesters();
+---
+<BaseLayout title="FIU Capstone Showcase">
+  <section class="hero">
+    <div class="shell">
+      <div class="hero-card">
+        <p class="eyebrow">Knight Foundation School of Computing and Information Sciences</p>
+        <h1>Capstone projects, semester by semester.</h1>
+        <p class="lede">
+          A public home for the FIU Capstone Showcase with a clean historical archive,
+          reusable semester templates, and a publishing workflow that does not depend on
+          Word mail merge.
+        </p>
+        <div class="actions">
+          <a class="button" href="#semesters">Browse Semesters</a>
+          <a class="button secondary" href="/FA25/">View Migration Sample</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="shell" style="padding: 0 0 2rem;" id="process">
+    <div class="grid cards">
+      <article class="panel">
+        <p class="eyebrow">Public Site</p>
+        <h2>One homepage, many semester subsites.</h2>
+        <p>
+          Each term gets its own path such as <code>/FA25/</code> while the top-level site
+          explains the program and links the historical archive together.
+        </p>
+      </article>
+      <article class="panel">
+        <p class="eyebrow">Input Model</p>
+        <h2>Data first, not document first.</h2>
+        <p>
+          Semester data will come from Google Sheets or exported CSV files and will generate
+          projects, judges, and Capstone I assignment pages consistently.
+        </p>
+      </article>
+      <article class="panel">
+        <p class="eyebrow">Deployment</p>
+        <h2>Static output to FIU hosting.</h2>
+        <p>
+          The build will publish plain files that can be synced directly to
+          <code>~/public_html/Capstone/</code>.
+        </p>
+      </article>
+    </div>
+  </section>
+
+  <section class="shell" id="semesters">
+    <div class="panel">
+      <p class="eyebrow">Semesters</p>
+      <h2>Historical archive</h2>
+      <p class="lede">
+        This list starts with the first migrated semester and will expand as historical data is
+        normalized into the new format.
+      </p>
+      <div class="semester-list">
+        {semesters.map((semester) => (
+          <a class="semester-card" href={`/${semester.data.code}/`}>
+            <div class="meta">
+              <span class="pill">{semester.data.code}</span>
+              <span class="pill">{semester.data.eventMode}</span>
+              <span class="pill">{semester.data.stats.projects} projects</span>
+            </div>
+            <div>
+              <h3>{semester.data.title}</h3>
+              <p>{semester.data.notes}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

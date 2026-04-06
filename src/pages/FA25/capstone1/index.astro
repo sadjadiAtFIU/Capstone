@@ -1,0 +1,36 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import semesterMeta from "../../../../data/semesters/FA25/semester.json";
+import capstone1 from "../../../../data/semesters/FA25/capstone1.json";
+---
+<BaseLayout title={`${semesterMeta.title} Capstone I Assignments`}>
+  <section class="hero">
+    <div class="shell">
+      <div class="hero-card">
+        <p class="eyebrow">{semesterMeta.code}</p>
+        <h1>Capstone I</h1>
+        <p class="lede">Pilot page for student assignment publishing. The final version will support better filtering and project exploration.</p>
+      </div>
+    </div>
+  </section>
+  <section class="shell">
+    <div class="panel">
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Assigned Projects</th>
+          </tr>
+        </thead>
+        <tbody>
+          {capstone1.map((student) => (
+            <tr>
+              <td>{student.name}</td>
+              <td>{student.slots.map((slot) => `${slot.degreeProgram}: ${slot.projectTitle}`).join(" | ")}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+</BaseLayout>

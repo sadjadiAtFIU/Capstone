@@ -1,0 +1,38 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import semesterMeta from "../../../../data/semesters/FA25/semester.json";
+import projects from "../../../../data/semesters/FA25/projects.json";
+---
+<BaseLayout title={`${semesterMeta.title} Projects`}>
+  <section class="hero">
+    <div class="shell">
+      <div class="hero-card">
+        <p class="eyebrow">{semesterMeta.code}</p>
+        <h1>Projects</h1>
+        <p class="lede">Pilot migration for Fall 2025. The full semester detail pages will be generated from normalized data.</p>
+      </div>
+    </div>
+  </section>
+  <section class="shell">
+    <div class="panel">
+      <table>
+        <thead>
+          <tr>
+            <th>Degree Program</th>
+            <th>Project</th>
+            <th>Summary</th>
+          </tr>
+        </thead>
+        <tbody>
+          {projects.map((project) => (
+            <tr>
+              <td>{project.degreeProgram}</td>
+              <td>{project.title}</td>
+              <td>{project.shortDescription}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+</BaseLayout>
