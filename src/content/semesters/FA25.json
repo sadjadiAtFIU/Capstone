@@ -7,14 +7,17 @@
   "assignmentsPublic": true,
   "judgesPublic": true,
   "stats": {
-    "projects": 3,
-    "judges": 3,
-    "capstone1Students": 3
+    "projects": 54,
+    "judges": 32,
+    "capstone1Students": 249
   },
-  "notes": "Initial migration sample based on the manually generated Fall 2025 site and local semester archive.",
+  "notes": "Imported from the Fall 2025 Google Sheets submissions, local semester spreadsheets, and the previously published FA25 assignment pages.",
   "featuredProjects": [
-    "ai-medical-diagnosis-assistant",
-    "deploying-a-siem-in-microsoft-azure",
-    "green-vault"
+    "patient-safety-comments-topic-analyzer",
+    "phisheye",
+    "campus-assistant",
+    "computer-science-mood-based-playlist-recommender",
+    "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+    "cloud-based-resume-builder"
   ]
 }

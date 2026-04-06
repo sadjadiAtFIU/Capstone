@@ -1,46 +1,901 @@
 [
   {
     "name": "Allala, Sai Chaithra",
+    "email": "SALLA010@FIU.EDU",
+    "jobTitle": "Assistant professor",
+    "highestDegree": "PhD",
+    "company": "St thomas",
     "slots": [
       {
-        "time": "2:00 to 2:30 pm",
+        "time": "",
         "projectSlug": "ai-medical-diagnosis-assistant",
         "projectTitle": "AI Medical Diagnosis Assistant",
         "degreeProgram": "Computer Science"
       },
       {
-        "time": "2:30 to 3:00 pm",
+        "time": "",
         "projectSlug": "deploying-a-siem-in-microsoft-azure",
         "projectTitle": "Deploying a SIEM in Microsoft Azure",
         "degreeProgram": "Cybersecurity"
       },
       {
-        "time": "3:00 to 3:30 pm",
+        "time": "",
         "projectSlug": "green-vault",
         "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Arrieta, Alejandro",
+    "email": "alejarri@fiu.edu",
+    "jobTitle": "Associate Professor",
+    "highestDegree": "PhD",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
         "degreeProgram": "Computer Science"
       }
     ]
   },
   {
     "name": "Arrieta, Sebastian",
+    "email": "s3b4st14n4ndr3@gmail.com",
+    "jobTitle": "N/A",
+    "highestDegree": "N/A",
+    "company": "N/A",
     "slots": [
       {
-        "time": "2:00 to 2:30 pm",
-        "projectSlug": "ai-medical-diagnosis-assistant",
-        "projectTitle": "AI Medical Diagnosis Assistant",
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Bahreini, Kiavash",
+    "email": "kbahrein@fiu.edu",
+    "jobTitle": "Associate Teaching Professor",
+    "highestDegree": "Ph.D.",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
         "degreeProgram": "Computer Science"
       }
     ]
   },
   {
     "name": "Bartolini, Daniel",
+    "email": "daniel.bartolini@assurant.com",
+    "jobTitle": "Intern",
+    "highestDegree": "Bachelors",
+    "company": "Assurant",
     "slots": [
       {
-        "time": "2:00 to 2:30 pm",
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Belisario, Yola",
+    "email": "yolanda.belisario@assurant.com",
+    "jobTitle": "Manager, Infrastructure Products",
+    "highestDegree": "M.S. in Computer Science",
+    "company": "Assurant, Inc",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cickovski, Trevor",
+    "email": "tcickovs@fiu.edu",
+    "jobTitle": "Associate Teaching Professor and Associate Director, KF-SCIS",
+    "highestDegree": "PhD",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cousins, Karlene",
+    "email": "kcousins@fiu.edu",
+    "jobTitle": "Chair & Professor, Information Systems & Business Analytics",
+    "highestDegree": "Ph.D.",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "DANACI, AYDIN",
+    "email": "aydin@ukaydelivery.com",
+    "jobTitle": "BRANCH MANAGER",
+    "highestDegree": "BACHELOR",
+    "company": "UKAY TRUCKING AND DELIVERY SERVICES",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ganzfried, Sam",
+    "email": "sam.ganzfried@gmail.com",
+    "jobTitle": "Research",
+    "highestDegree": "PhD",
+    "company": "Ganzfried Research",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Garcia, Emmanuel",
+    "email": "egarcias@fiu.edu",
+    "jobTitle": "PhD Student",
+    "highestDegree": "Bachelors",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Grimberg, Daniel",
+    "email": "dgrim016@fiu.edu",
+    "jobTitle": "Student",
+    "highestDegree": "BSc Computer Science",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Haria, Naman",
+    "email": "naman.haria@assurant.com",
+    "jobTitle": "Staff DevOps Engineer",
+    "highestDegree": "B.S. in I.T.",
+    "company": "Assurant",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Husain, Ather",
+    "email": "ather.techie@gmail.com",
+    "jobTitle": "Technical Lead",
+    "highestDegree": "Bachelors",
+    "company": "Assurant",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Jacobson, Susan",
+    "email": "sujacobs@fiu.edu",
+    "jobTitle": "Director, Lee Caplin School of Journalism & Media",
+    "highestDegree": "PhD",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
         "projectSlug": "green-vault",
         "projectTitle": "Green Vault",
         "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "lisetti, christine",
+    "email": "lisetti@cs.fiu.edu",
+    "jobTitle": "Assoc. Prof",
+    "highestDegree": "PhD",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Milord, Garcia",
+    "email": "garciamilord@gmail.com",
+    "jobTitle": "Software Engineer",
+    "highestDegree": "Bachelor",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Moodie, Kiesha",
+    "email": "Kmoodie@fiu.edu",
+    "jobTitle": "Director social innovation",
+    "highestDegree": "M.ED",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Moshaver, Sam",
+    "email": "smoshave@fiu.edu",
+    "jobTitle": "Assistant Professor",
+    "highestDegree": "Phd",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Nova, Kannan",
+    "email": "novakannan@gmail.com",
+    "jobTitle": "Data Scientist",
+    "highestDegree": "Masters of Science in Data Science",
+    "company": "Microsoft",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Orfanini, Fabio",
+    "email": "fabio.orfanini@youco.eu",
+    "jobTitle": "President",
+    "highestDegree": "Master",
+    "company": "YouCo",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Osman, Niemah",
+    "email": "nosman@fiu.edu",
+    "jobTitle": "Assistant Teaching Professor",
+    "highestDegree": "PhD",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Pan, Deng",
+    "email": "pand@fiu.edu",
+    "jobTitle": "Associate Professor",
+    "highestDegree": "PhD",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Rajen, Nathan",
+    "email": "Nathan.rajen@prolim.com",
+    "jobTitle": "CTO",
+    "highestDegree": "MS",
+    "company": "PROLIM",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Rosenberg, Mark",
+    "email": "rosenber@fiu.edu",
+    "jobTitle": "University Professor & Sr. Fellow; Fifth President of FIU",
+    "highestDegree": "Ph.D.",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Sierra, Juan",
+    "email": "Jsierrax@gmail.com",
+    "jobTitle": "Cardano Blockchain Liassòn",
+    "highestDegree": "bachelors",
+    "company": "Cardano Blockchain - WebBridges.io",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Silva, Camilo",
+    "email": "silva.creative@gmail.com",
+    "jobTitle": "Software Engineering Manager",
+    "highestDegree": "Masters of Science",
+    "company": "Red Ventures",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Sotomayor, Juan",
+    "email": "jusoto@gmail.com",
+    "jobTitle": "Instructor",
+    "highestDegree": "PhD in Computer Science",
+    "company": "Keiser University",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Umasankar, Yogeswaran",
+    "email": "yumasank@fiu.edu",
+    "jobTitle": "Emerging Technology Research Specialist",
+    "highestDegree": "PhD",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Velasquez, Ruth",
+    "email": "rvela058@fiu.edu",
+    "jobTitle": "Research Assistant",
+    "highestDegree": "Associates",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Vieira, Edgar",
+    "email": "evieira@fiu.edu",
+    "jobTitle": "Dean of Research NWCNHS",
+    "highestDegree": "PhD",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Wang, Wenjia",
+    "email": "wwang048@fiu.edu",
+    "jobTitle": "Research Assistant",
+    "highestDegree": "Master's",
+    "company": "FIU",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
       }
     ]
   }

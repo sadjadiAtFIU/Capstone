@@ -25,7 +25,7 @@ import capstone1 from "../../../../data/semesters/FA25/capstone1.json";
         <tbody>
           {capstone1.map((student) => (
             <tr>
-              <td>{student.name}</td>
+              <td><a href={`/FA25/capstone1/${encodeURIComponent(student.name)}/`}>{student.name}</a></td>
               <td>{student.slots.map((slot) => `${slot.degreeProgram}: ${slot.projectTitle}`).join(" | ")}</td>
             </tr>
           ))}

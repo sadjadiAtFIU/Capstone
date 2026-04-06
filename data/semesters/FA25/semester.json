@@ -4,5 +4,5 @@
   "season": "Fall",
   "year": 2025,
   "eventMode": "in-person",
-  "notes": "Initial migration sample based on the manually generated Fall 2025 site and local semester archive."
+  "notes": "Imported from the Fall 2025 Google Sheets submissions, local semester spreadsheets, and the previously published FA25 assignment pages."
 }

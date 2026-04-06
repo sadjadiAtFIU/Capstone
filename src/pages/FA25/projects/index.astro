@@ -9,7 +9,7 @@ import projects from "../../../../data/semesters/FA25/projects.json";
       <div class="hero-card">
         <p class="eyebrow">{semesterMeta.code}</p>
         <h1>Projects</h1>
-        <p class="lede">Pilot migration for Fall 2025. The full semester detail pages will be generated from normalized data.</p>
+        <p class="lede">Imported project catalog for Fall 2025, including final showcase titles, descriptions, team members, and public artifact links.</p>
       </div>
     </div>
   </section>
@@ -33,6 +33,26 @@ import projects from "../../../../data/semesters/FA25/projects.json";
           ))}
         </tbody>
       </table>
+    </div>
+  </section>
+  <section class="shell" style="padding-top: 1.25rem;">
+    <div class="grid">
+      {projects.map((project) => (
+        <article class="panel" id={project.slug}>
+          <p class="eyebrow">{project.degreeProgram}</p>
+          <h2>{project.title}</h2>
+          <p>{project.shortDescription}</p>
+          <p><strong>Team:</strong> {project.teamMembers.join(", ")}</p>
+          <p><strong>Product Owner / Mentor:</strong> {project.productOwners.join(", ")}</p>
+          <div class="actions">
+            {project.posterUrl && <a class="button secondary" href={project.posterUrl} target="_blank">Poster</a>}
+            {project.documentationUrl && <a class="button secondary" href={project.documentationUrl} target="_blank">Documentation</a>}
+            {project.slidesUrl && <a class="button secondary" href={project.slidesUrl} target="_blank">Slides</a>}
+            {project.introVideoUrl && <a class="button secondary" href={project.introVideoUrl} target="_blank">Intro Video</a>}
+            {project.demoVideoUrl && <a class="button secondary" href={project.demoVideoUrl} target="_blank">Demo Video</a>}
+          </div>
+        </article>
+      ))}
     </div>
   </section>
 </BaseLayout>

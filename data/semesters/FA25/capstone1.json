@@ -1,13 +1,320 @@
 [
   {
-    "name": "Sample Student One",
+    "name": "Adriazola,Daniel J",
     "slots": [
       {
+        "time": "",
         "projectSlug": "ai-medical-diagnosis-assistant",
         "projectTitle": "AI Medical Diagnosis Assistant",
         "degreeProgram": "Computer Science"
       },
       {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Akilli,Emre",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Alali,Omar Adel A",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Alfaro,Charles Alexander",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Alfaro,David Sebastian",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Alhazzaa,Faisal Ibrahim",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Alonso Franco, Armando",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Alvarez,Giovanni",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Amador,Ryan Richard",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ambroise,Matthew Dylan",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Andrade,Horacio Anselmo",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Anthony,Isabella Theresia Marie",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Arana,Michelle",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Aulindo,Raiyan Mahfuz",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
         "projectSlug": "deploying-a-siem-in-microsoft-azure",
         "projectTitle": "Deploying a SIEM in Microsoft Azure",
         "degreeProgram": "Cybersecurity"
@@ -15,9 +322,781 @@
     ]
   },
   {
-    "name": "Sample Student Two",
+    "name": "Avalos Nerey,Diego Alejandro",
     "slots": [
       {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Ayestas,Anthony Alexis",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Bah,Ousman",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Bar Ysrael,Nahahme",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Barrett,John Francis",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Bautista,Javier Alejandro",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Beaton,Aiden",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Berdeal,Jacob Michael",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Bikowicz,Daniel Robert",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Bogea Guedes Batista,Thais",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Buckmon,Jamia-Symone",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Calero,Mikhail Gabriel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Camacho,Luis David",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Camos,Pedro Alejandro",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Campo,Jose F",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Campos Jr,Carlos",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Canessa, Luis",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Cardenas,Justin Michael",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Cardona,Brian A",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cardoso,Alex Daniel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Carrillo Rodriguez,Marcos R",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Casal,Matias Augusto",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Casas Cano,Anthony",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Castellanos,Samuel Antonio",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Castilblanco,Katherine Alyssa",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Castilho,Gabriel Koehler",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Castro,Stefany Maria",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cavanzo,Matias Alberto",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cedano,Chloe Elise",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cevallos,Christian Andre",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Charles,Jaedon Anthony",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Charles,Zeyon Aaron",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Chowdhury,Areesh",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cisneros,Catalina Maria",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
         "projectSlug": "green-vault",
         "projectTitle": "Green Vault",
         "degreeProgram": "Computer Science"
@@ -25,11 +1104,4624 @@
     ]
   },
   {
-    "name": "Sample Student Three",
+    "name": "Cisneros,Gianfranco Alfredo",
     "slots": [
       {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Clarke,Ulyana Isabella",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Clayton,Matthew Hugh Walter",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cohen,Simon Moises",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cole, Ajani",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Coleman,Ethan Conrad",
+    "slots": [
+      {
+        "time": "",
         "projectSlug": "ai-medical-diagnosis-assistant",
         "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Colon,Christian Daniel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cook,Noah Isaac",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Correa,Isabella Prudente",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Couto,Patrick",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cruz,Katherine Yvette",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Cunningham,Rickoy",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Dansereau,Rylan Brooks",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "De Oliveira Gomes,Enzo Felippe",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Defelice,Santiago Andres, Justin W",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Del Orbe,Wesley",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Delarosa,Aaron",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Diaz-Zuluaga,Juan P",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Diaz,Carlos Manuel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Dicuru,Diana",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Doralus,Johnathan Kyler",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Duran,Kevin",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Fagundo,Lucas Alejandro",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Faria Novy e Silva,Luisa",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Fayed,Fesal Hesham",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Feliciano,Angel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Felix JR,Jhonny",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Fernandez,Andres",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Fernandez,Noah Wayne Andres",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Ferrer,Alejandro",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Flores,Louis Andres",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Footen,John Douglas",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Franco,Elsa Maria",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Frangi,Joaquin",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Franquin,Adrian",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "ftino001@fiu.edu",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Garcia,Amber Katherine",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Garcia,Lucas",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Garcia,Nickolas Jafet",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ghosh,Bishal",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Giles,Devin",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Gleiberman,Max Lee",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Gomez Alvarado,Juan Carlos",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Gomez,Helen Diana",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Gonzalez,Jonathan",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Gonzalez,Sebastian",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Guillen,Sebastien Jayme",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Gutierrez,Ana Cristina",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Guzman,Carlos Manuel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Hechavarria,Elizabeth Ann",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Hernandez,Daniel Roberto",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Hernandez,Gabriela",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Hernandez,Julian Alexander",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Hernandez,Leah",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Hernandez,Timothy Andrew",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Herrera,Greta",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ho,Van Quang",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Horiuchi,Haruki",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Hosang,Myckheal Issiah",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Hurst,Deryn Amara Sydney",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Hurtado,Lucas",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ibanez,Barbaro Reyniel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Iglesias,Charlie",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Imran,Imran",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Iparraguire,Richard",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Jean-Louis,Ernst Isaiah",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Jimenez O'relly,Jorge Luis",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Jimenez,Angel Kenay",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Jimenez,Dany Daniel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Jorrin,Alberto Alejandro",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Joseph,Christopher",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Karborani,Anthony Michael",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Kaufmann,Bruno Joaquin",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Kelekhidze,Sandro",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Khan,Zoha Naz",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Kharutski,Maksim",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Kohlman,Zack Aydan",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Kummari,Monisha",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Kurz,Justin D",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Larrucea,Shelby Presley",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Lewin,Krystal",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Lezama,Samantha Auxiliadora",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Lezcano,Mathew",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Lindsay,Chloe Mellissa",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Lioe-A-Tjam,Nathan Albert Yan Tai",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Lopez,Brandon Alexander",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Lopez,Luis Alberto",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Lopez,Michael Andrew",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Lora,Isaiah",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Mahabeer,Nathan Anthony Alexander",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Marrero-Riera,Federico Alberto",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Martinez Duarte,Allison Maria",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Martinez,Agustin Huber",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Martinez,Diego Miguel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Martinez,Raydel Alejandro",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Mata,Fernando",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Matin,Omer",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Mcbean,Keanu Diondre",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Meirambek,Nurdos",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Mendez,Christian David",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Mendoza,Jeremias Ismael",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Merjech,Nicholas",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Merlano,Enrique",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Moreno,Nicolas J",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Morton,Adrian Thomas",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Mossa,Alyaa",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Mwakalasya,Tuntufye",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Nava-Arenas,Jonathan",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Navas,Austin Jay",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Noel,Buriel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Noguera,Alejandro",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Nogueras,Gabriel Alexis",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Nwajide,Nnamdi",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ocampo Padilla,Jennifer",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ochoa,Alonso",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ocon,Max Alejandro",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ordaz,Anthony J",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ore Gil,Fiorella",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Orozco,Jefferson Stuart",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Orozco,Michelle Alejandra",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Pacheco,Anthony",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Pagan,Luis Daniel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Pahwa,Mridul",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Palacio,David Ryan",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Palet,Abdiel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Pashayev,Aykhan",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Paz,Christopher",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Perez Fematt,Sebastian",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Perez Garcia,Henry Xavier",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Perez-Calderon,Ainoa Liz",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Perez,Bryan Manuel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Pierre,Nickelli Lovaski",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Pikalov,Maksim",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Pineda Espinoza,Miguel Angel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Pinto,Lucca Vieira",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Pita,Erika Rosa",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Placencia,Marcell",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Poggi,Bianca",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Pradhan,Tejash Narshing",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Puerta,Frank Ernesto",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Rahman,Mahadi",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Rakhimov,Ogabek",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Ramos,Benjamin",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Ramos,Jovan",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Re,Pedro Rafael",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Reganit,Paul Andrew Elemino",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Remior,Pedro Javier",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Rendon,Eric Alfredo",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Rey,Carlos Enrique",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Riley,Victoria",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Rodriguez,Enrique",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Rodriguez,Reynaldo Josue",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Rodriguez,Richard",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Roman,Fabian",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ross,Chelsea",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Rousseau Ruiz,Mauro",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Sadaf,Aymanul Haque",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Saint-Blancard, Michael",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Sanchez,Alex Eduardo",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Sanders,Ahsan Jonah",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Sarmiento,Miranda",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Sierra,Ronald",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Siewierski,Mateo",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Silva Tejada,Remberto",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Sosa,Bryan",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Soto,Alexander Mario",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "St Fleur,Carlvensky",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Su Nobrega,Nicolas",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Suarez-Leon,Francesca Kamilla",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Suniaga,Dylan",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Syed,Aamna",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Syed,Sadiya",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Symbleme, Jerry",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Sypioe,David Joseph",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ten,Vyacheslav",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Torrese,Elaine",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Tsalikis,Nikolas V",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Tur,Yoan Sebastian",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Ustariz,Bruno",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Valentin,Carmeisha",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      },
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Valladares,Axel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "phisheye",
+        "projectTitle": "PhishEye",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Varazi,Luka",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+        "projectTitle": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Vazquez,Levis",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secure-ai-race-strategy-sars",
+        "projectTitle": "Secure AI Race Strategy (SARS)",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Vega Gonzalez,Maria Guadalupe",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "secured-med",
+        "projectTitle": "Secured Med",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Velasquez,Ruth Abigail",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "usb-drop-attack-simulation",
+        "projectTitle": "USB Drop Attack Simulation",
+        "degreeProgram": "Cybersecurity"
+      }
+    ]
+  },
+  {
+    "name": "Velasquez,Steven Isaac",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "patient-safety-comments-topic-analyzer",
+        "projectTitle": "Patient Safety Comments Topic Analyzer",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "canvas-ai-assistant",
+        "projectTitle": "Canvas AI Assistant",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-mock-interview-prep",
+        "projectTitle": "AI Mock Interview Prep",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Velazquez,Nicholas",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "pyquest",
+        "projectTitle": "PyQuest",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-cost-optimizer-dashboard",
+        "projectTitle": "Cloud Cost Optimizer Dashboard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "autosec-automated-network-configuration",
+        "projectTitle": "AutoSec - Automated Network Configuration",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Vilar,Victoria",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "resume-screening-ai",
+        "projectTitle": "Resume Screening AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "codedrill",
+        "projectTitle": "CodeDrill",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cloud-based-resume-builder",
+        "projectTitle": "Cloud Based Resume Builder",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Villate,Nicholas Felipe",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "she",
+        "projectTitle": "SHE<CODES/>",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-loan-validation",
+        "projectTitle": "Computer Science: Loan Validation",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-equipment-checkout-tracker",
+        "projectTitle": "Computer Equipment Checkout Tracker",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Vivas,Christopher Emanuel",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "smart-appointment-scheduler",
+        "projectTitle": "Smart Appointment Scheduler",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "computer-science-mood-based-playlist-recommender",
+        "projectTitle": "Computer Science: Mood-Based Playlist Recommender",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "control-point",
+        "projectTitle": "Control Point",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Whiteman,Anthony Ishmai'l",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "spinewise",
+        "projectTitle": "SpineWise",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+        "projectTitle": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "cybersafeguard",
+        "projectTitle": "CyberSafeguard",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Williams,Jordan Nicholas",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "staria-workout-tracker",
+        "projectTitle": "Staria - Workout Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "echoguard",
+        "projectTitle": "EchoGuard",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "expenseflow",
+        "projectTitle": "ExpenseFlow",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Williams,Xavier Marcus",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "stress-and-anxiety-management-application",
+        "projectTitle": "Stress and Anxiety Management Application",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "embedded-programming-copilot-agent",
+        "projectTitle": "Embedded Programming Copilot Agent",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "infrahub",
+        "projectTitle": "InfraHub",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Williamson Jr,Wayne",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tailored-tails",
+        "projectTitle": "Tailored Tails",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "framing-by-design",
+        "projectTitle": "Framing By Design",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "nook-student-collaboration-app",
+        "projectTitle": "Nook: Student Collaboration APP",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Wilson,Kevin Michael",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "tapin-mma",
+        "projectTitle": "TapIn MMA",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "gamified-habit-tracker",
+        "projectTitle": "Gamified Habit Tracker",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartasset",
+        "projectTitle": "SmartAsset",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Wissart,Justin Jahiem",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "truedoor",
+        "projectTitle": "TrueDoor",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "green-vault",
+        "projectTitle": "Green Vault",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "smartspender",
+        "projectTitle": "SmartSpender",
+        "degreeProgram": "Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "Wu,Zerong",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "watchmen-route-over-a-body-of-water",
+        "projectTitle": "Watchmen Route Over a Body of Water",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "handymen-now",
+        "projectTitle": "HandyMen Now",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-medical-diagnosis-assistant",
+        "projectTitle": "AI Medical Diagnosis Assistant",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Ye,Kenneth",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "cybersense-training-simulator-for-cyber-security-employee",
+        "projectTitle": "CyberSense : Training Simulator for Cyber Security Employee",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "householdhub",
+        "projectTitle": "HouseholdHub",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "ai-driven-warehouse-stock-management",
+        "projectTitle": "AI- Driven Warehouse Stock Management",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Yi,Anthony",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "deploying-a-siem-in-microsoft-azure",
+        "projectTitle": "Deploying a SIEM in Microsoft Azure",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "l1-sales-synthetic-data-generator",
+        "projectTitle": "L1 Sales Synthetic Data Generator",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "artcollab",
+        "projectTitle": "ArtCollab",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Zelada,Jacob Alexander",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "duo-sync-authenticator",
+        "projectTitle": "Duo Sync Authenticator",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "mymedcab-medication-management-system",
+        "projectTitle": "MyMedCab - Medication Management System",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "briskrecall",
+        "projectTitle": "BriskRecall",
+        "degreeProgram": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Zhang,Cheng",
+    "slots": [
+      {
+        "time": "",
+        "projectSlug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+        "projectTitle": "Lock and Key – Encrypted Password Management and Collaboration System",
+        "degreeProgram": "Cybersecurity"
+      },
+      {
+        "time": "",
+        "projectSlug": "panther-social",
+        "projectTitle": "Panther Social",
+        "degreeProgram": "Computer Science"
+      },
+      {
+        "time": "",
+        "projectSlug": "campus-assistant",
+        "projectTitle": "Campus Assistant",
         "degreeProgram": "Computer Science"
       }
     ]

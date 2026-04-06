@@ -1,0 +1,47 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import semesterMeta from "../../../../data/semesters/FA25/semester.json";
+import capstone1 from "../../../../data/semesters/FA25/capstone1.json";
+
+export async function getStaticPaths() {
+  return capstone1.map((student) => ({
+    params: { name: encodeURIComponent(student.name) },
+    props: { student }
+  }));
+}
+
+const { student } = Astro.props;
+---
+<BaseLayout title={`${student.name} | ${semesterMeta.title}`}>
+  <section class="hero">
+    <div class="shell">
+      <div class="hero-card">
+        <p class="eyebrow">{semesterMeta.code} Capstone I Assignments</p>
+        <h1>{student.name}</h1>
+        <p class="lede">Assigned showcase visits for Fall 2025.</p>
+        <div class="actions">
+          <a class="button secondary" href="/FA25/capstone1/">Back to Capstone I</a>
+          <a class="button" href="/FA25/projects/">Projects</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="shell">
+    <div class="panel">
+      <table>
+        <thead>
+          <tr>
+            <th>Project</th>
+          </tr>
+        </thead>
+        <tbody>
+          {student.slots.map((slot) => (
+            <tr>
+              <td>{slot.degreeProgram}: {slot.projectTitle}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+</BaseLayout>

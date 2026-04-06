@@ -1,26 +1,1214 @@
 [
   {
-    "id": "p1",
-    "title": "AI Medical Diagnosis Assistant",
-    "slug": "ai-medical-diagnosis-assistant",
+    "id": "patient-safety-comments-topic-analyzer",
+    "title": "Patient Safety Comments Topic Analyzer",
+    "slug": "patient-safety-comments-topic-analyzer",
+    "legacyTitle": "Computer Science: AI-Driven Topic and Sentiment Analysis of Patient Safety Comments",
     "degreeProgram": "Computer Science",
-    "shortDescription": "Sample migrated project record from the Fall 2025 showcase to validate the new data model and page structure.",
-    "teamMembers": ["Sample Team Member A", "Sample Team Member B"]
+    "shortDescription": "A program that uses AI to analyze an excel file containing comments written in Spanish, and producing the most mentioned topics from those comments.",
+    "teamMembers": [
+      "Diego Hernandez",
+      "Bosco Silva",
+      "Gunther Alonso",
+      "Didier Campos",
+      "Timothy Rocha"
+    ],
+    "productOwners": [
+      "Alejandro Arrieta"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1SL1ohPTpCuKWPjPbUXZVmPSm641yQPy_/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1OhrO613hywNCitg9lh-hNHik7bN7Q2Ri/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1Hgc0ojdx13i0p5KEIkFRduQ_uiXRr4Qd/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/VMOwKTOT8r4?si=oRc_0rg9dW4OnoUg",
+    "demoVideoUrl": "https://www.youtube.com/embed/oe72TCu4Z1Y?si=sArn4un_yG4pBTcA"
   },
   {
-    "id": "p2",
-    "title": "Deploying a SIEM in Microsoft Azure",
-    "slug": "deploying-a-siem-in-microsoft-azure",
+    "id": "phisheye",
+    "title": "PhishEye",
+    "slug": "phisheye",
+    "legacyTitle": "Cybersecurity: PhishEye",
     "degreeProgram": "Cybersecurity",
-    "shortDescription": "Sample migrated cybersecurity project used for the first judge assignment page in the new site.",
-    "teamMembers": ["Sample Team Member C", "Sample Team Member D"]
+    "shortDescription": "PhishEye is a Chrome web extension designed to detect suspicious activity, whether it is phishing emails or unsafe browsing. The system analyzes certain information like embedded links, suspicious keywords, domain names, and sender URL to identify potential threats before users engage with malicious content.",
+    "teamMembers": [
+      "Brandon Gerber",
+      "Justin Casale",
+      "Bruno Moulheres",
+      "Maikol Hernandez",
+      "Giovanni Baptista"
+    ],
+    "productOwners": [
+      "Brandon Gerber"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1uDpHbdzF2R4PSKbnC0Si2zrC7jt3efHC/view?usp=sharing",
+    "documentationUrl": "https://docs.google.com/document/d/1lSzbNjpwLWj5ZqYGyFXvEW8O5NBz9-HJ/edit?usp=sharing&ouid=100555835267879051715&rtpof=true&sd=true",
+    "slidesUrl": "https://docs.google.com/presentation/d/1U1tap_K57riwtRXYiFkFjJ2GmcR4LVZ1/edit?usp=sharing&ouid=100555835267879051715&rtpof=true&sd=true",
+    "introVideoUrl": "https://www.youtube.com/embed/VN-7iUYVVqc?si=InoR1boEbbiGFIQa",
+    "demoVideoUrl": "https://www.youtube.com/embed/Z4zv8jIdGrQ?si=w-pExqmH0cBt8AG8"
   },
   {
-    "id": "p3",
+    "id": "campus-assistant",
+    "title": "Campus Assistant",
+    "slug": "campus-assistant",
+    "legacyTitle": "Computer Science: Campus Assistant",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "Our project is an interactive application that provides a guide of FIU for new and existing students to be able to navigate the campus and access available services and restaurants.",
+    "teamMembers": [
+      "Baha Ali",
+      "Martin De Bedout",
+      "Javier Pessela",
+      "Fernand De La Guardia",
+      "Ryan Zamora"
+    ],
+    "productOwners": [
+      "Baha Ali"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1ba_5dTBqTGvMLopnZxFqZMqCh_Erpzaf",
+    "documentationUrl": "https://drive.google.com/file/d/15I169_kzf5dOPv3BnbzDdD9nfhiR7ka7",
+    "slidesUrl": "https://drive.google.com/file/d/1faHQvfaeg3TDHeLCWgLb7IqAwPk9bH9v",
+    "introVideoUrl": "https://www.youtube.com/embed/dHVcK7-2z48?si=ZVvABEa5R8jvO1Dx",
+    "demoVideoUrl": "https://www.youtube.com/embed/zkP8tSTJjqI?si=TwW1nnKb8w5vW0Y0"
+  },
+  {
+    "id": "computer-science-mood-based-playlist-recommender",
+    "title": "Computer Science: Mood-Based Playlist Recommender",
+    "slug": "computer-science-mood-based-playlist-recommender",
+    "legacyTitle": "Computer Science: Mood-Based Playlist Recommender",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "Moodify is a full-stack web application that solves the challenge of manual playlist compilation for students. It uses a Natural Language Processing (NLP) algorithm to instantly interpret a user's mood, whether selected or described in text, and delivers curated Spotify playlist recommendations. The system is built on React, Node.js/Express, and integrates securely with the Spotify API.",
+    "teamMembers": [
+      "Mauricio Cubillos",
+      "Roseline Damiscar",
+      "Paola Montejo",
+      "Zara Moreno",
+      "Angie Salazar"
+    ],
+    "productOwners": [
+      "Paola Montejo"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1x8eMc6lXXW8dG12nkwTyzbkUlheNYrd1/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1A9HcWdwb0u8extKabPRp9pfgZH60gFo8/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1C_MekKTuGAoCwS0MIlpXYPqfwn36eyCg/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/LRzLP2jY6kE?si=FiVCWX-mETkEBsLM",
+    "demoVideoUrl": "https://www.youtube.com/embed/y5nhVofSOr8?si=UfsKYbQHE7gFL8cm"
+  },
+  {
+    "id": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+    "title": "Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+    "slug": "profiling-ransomware-attacks-via-web-crawling-and-textual-analysis",
+    "legacyTitle": "Cybersecurity: Profiling Ransomware Attacks via Web Crawling and Textual Analysis",
+    "degreeProgram": "Cybersecurity",
+    "shortDescription": "Analyzing the content from ransomware-related news, posts, and reports can provide heuristics for the defense. Profiling the characteristics of emerging ransomware attacks can inform a more effective ransomware defense.",
+    "teamMembers": [
+      "Jordan Arteaga",
+      "Pedro Loor",
+      "Luis Salgado",
+      "Kevin Montenegro",
+      "Elvis Nakamura"
+    ],
+    "productOwners": [
+      "Weidong Zhu",
+      "Assistant Professor"
+    ],
+    "posterUrl": "https://fiudit-my.sharepoint.com/:b:/g/personal/jarte017_fiu_edu/IQAtJjRH-lEfQosrlXto3RDyARX2qSkQV-hzjz0OPa1kElQ?e=Rb5TQn",
+    "documentationUrl": "https://fiudit-my.sharepoint.com/:b:/g/personal/jarte017_fiu_edu/IQAnnPk4ECJvTLDh_ydYVk31AeLYFPnlHs2QCDgMpnKWN0g?e=yjZirC",
+    "slidesUrl": "https://fiudit-my.sharepoint.com/:b:/g/personal/jarte017_fiu_edu/IQDaOLoTQCY4SJEV8n8Z0U5JAYa1Rf2LtFdn5I4AcZjeV1M?e=NHStbm",
+    "introVideoUrl": "https://www.youtube.com/embed/YbdganOBddU?si=TDM4CS79_6rzN7Wv",
+    "demoVideoUrl": "https://www.youtube.com/embed/SfjtHiAcjJ0?si=FlHyYoytxykIqOzd"
+  },
+  {
+    "id": "cloud-based-resume-builder",
+    "title": "Cloud Based Resume Builder",
+    "slug": "cloud-based-resume-builder",
+    "legacyTitle": "Information Technology: Cloud-Based Resume Builder",
+    "degreeProgram": "Information Technology",
+    "shortDescription": "Cloud-Based Resume Builder is a Django web app that lets anyone craft, preview, and export a polished resume without touching HTML. It provides guided forms for experience, education, projects, and skills; live preview; WeasyPrint PDF export; and a clean Tailwind UI. Deployed on AWS Lightsail with Gunicorn/Apache and Let’s Encrypt HTTPS.",
+    "teamMembers": [
+      "Ambar Pineda",
+      "Christopher Petit",
+      "Cesar Jimenez",
+      "Esteban Oliva"
+    ],
+    "productOwners": [
+      "Esteban Oliva"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1QLuZgeJcyHAUZ-AMT2JxcGCIHrlHB8y_/view?usp=sharing",
+    "documentationUrl": "https://github.com/CBRBCapstone/cloud-based-resume-builder",
+    "slidesUrl": "https://drive.google.com/file/d/1QLuZgeJcyHAUZ-AMT2JxcGCIHrlHB8y_/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/i7WPGtYvFqg?si=SwsS-lVXme1Lj5tN",
+    "demoVideoUrl": "https://www.youtube.com/embed/i7WPGtYvFqg?si=SwsS-lVXme1Lj5tN"
+  },
+  {
+    "id": "autosec-automated-network-configuration",
+    "title": "AutoSec - Automated Network Configuration",
+    "slug": "autosec-automated-network-configuration",
+    "legacyTitle": "Information Technology: Automated Network Configuration for IT Environements",
+    "degreeProgram": "Information Technology",
+    "shortDescription": "Many individuals who rely on multiple internet devices will eventually need to deal with configuring their network infrastructure, whether at home, in a small business, or larger company environment. This task can quickly become overwhelming for those ranging from little to no technical expertise to experienced professionals. AutoSec was designed and created to relieve this burden by streamlining configuration tasks while offering a beginner-friendly approach to setting up routers, switches, and automated network environments. Consistent and reliable configurations can be deployed with minimal effort, playing an important role in reducing complexity and improving the overall management of network infrastructure.",
+    "teamMembers": [
+      "Kelly Aurand",
+      "Anatholy Blanco",
+      "Giovanna Curry",
+      "Sebastian Gamboa",
+      "Cecil Mais"
+    ],
+    "productOwners": [
+      "Product Owner: Cecil Mais Mentor: Masoud Sdjadi"
+    ],
+    "posterUrl": "https://docs.google.com/presentation/d/1Wr0FGyHuYm7lS1b40yk2BF4hIKgqC_t6kfm6yXRd5YM/edit?usp=sharing",
+    "documentationUrl": "https://docs.google.com/document/d/1BjQdnSPx2zYLpPRMtVSz97pZMrE-TaldRTU94cq_b2w/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/19yy23TqLJZmGL--mkecchSgIdzns826KeLDcQoNpNEE/edit?usp=sharing",
+    "introVideoUrl": "https://youtube.com/shorts/brIj4rkfeXE?si=YxAmHvGy0N_Qb3xU",
+    "demoVideoUrl": "https://youtu.be/WurGTrJuICs?si=ZMaEJ9XYjwEw9POF"
+  },
+  {
+    "id": "smartspender",
+    "title": "SmartSpender",
+    "slug": "smartspender",
+    "legacyTitle": "Information Technology: Expense Tracker App",
+    "degreeProgram": "Information Technology",
+    "shortDescription": "SmartSpender is a simple budgeting app that helps you track daily expenses, manage monthly bills, and reach your savings goals. Just enter your monthly spending, and the app automatically creates a personalized budget based on your real habits.",
+    "teamMembers": [
+      "Miladys Perez",
+      "Maria Flores",
+      "Randy Pierre",
+      "David Edelduok",
+      "Malik Wahab Rashid"
+    ],
+    "productOwners": [
+      "Miladys Perez"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1TAtdNeGj6azJI_LwN8q45JAXvnoYTTHh/view?usp=drive_link",
+    "documentationUrl": "https://drive.google.com/file/d/1iw0SxAzo8G8zXBzAQOplOnBnFyYrLhz2/view?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1ciYWY-9ZeRH-NMH99aHoGF0UZnJjkKos/edit?usp=drive_link&ouid=104924800204043507602&rtpof=true&sd=true",
+    "introVideoUrl": "https://www.youtube.com/embed/mlQg2XIzp5w?si=Ef86Ak3w5YLzWCbq",
+    "demoVideoUrl": "https://www.youtube.com/embed/GQ0bmW1Tyyg?si=f_jnioOj1JCXZSqN"
+  },
+  {
+    "id": "tailored-tails",
+    "title": "Tailored Tails",
+    "slug": "tailored-tails",
+    "legacyTitle": "Computer Science: Tailored Tails",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "A website that leverages AI to pair users and dogs together for adoption",
+    "teamMembers": [
+      "Mohamed Kisha",
+      "Rickny Sanon",
+      "Andres Garcia Vicallis"
+    ],
+    "productOwners": [
+      "Rickny Sanon (Product Owner)"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1pJtmjJ7NF1anfIXU8hXfAhp3txfprdrm/view?usp=drive_link",
+    "documentationUrl": "https://drive.google.com/file/d/18Vv1JaEkyDVTRL7uneM9ZCUBw3z7KsPE/view?usp=drive_link",
+    "slidesUrl": "https://drive.google.com/file/d/1UN6Ednaq9_G1XC9P6hNdk4L8W4m9dfat/view?usp=drive_link",
+    "introVideoUrl": "https://www.youtube.com/embed/gYBzmLhgMF4?si=85WKh8TEImCBkXK3",
+    "demoVideoUrl": "https://www.youtube.com/embed/rhltowA6biM?si=38JvV_-0fgrvHsjZ"
+  },
+  {
+    "id": "green-vault",
     "title": "Green Vault",
     "slug": "green-vault",
+    "legacyTitle": "Computer Science: Green Vault - Uncovering hidden trade costs and analysis",
     "degreeProgram": "Computer Science",
-    "shortDescription": "Sample migrated project record showing how a semester can mix multiple programs in one showcase site.",
-    "teamMembers": ["Sample Team Member E", "Sample Team Member F"]
+    "shortDescription": "Green Vault addresses the lack of accessible execution-quality tools by providing clear trade analysis for beginners and deeper metrics for intermediate users. The platform ingests a user’s trade, retrieves relevant market data, computes execution metrics like slippage and spreads, and stores results through a structured backend designed for secure authentication, validation, and data management.",
+    "teamMembers": [
+      "Giorgio Abboud",
+      "Malik Dagher",
+      "Audrey Gamero",
+      "Daniella Lacotera",
+      "Rodrigo Munoz"
+    ],
+    "productOwners": [
+      "Giorgio Abboud"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1wnWoWYrpablQ5MkUmwcsI-zOWGkvLCaV/view",
+    "documentationUrl": "https://drive.google.com/file/d/1hNRItDNzOjORkz3JmhxqqJ0Hi8eYc0YM/view",
+    "slidesUrl": "https://docs.google.com/presentation/d/1gvEpHTwPIOITEGwhQETBvN99WGk2BalA/edit?slide=id.p1#slide=id.p1",
+    "introVideoUrl": "https://www.youtube.com/embed/XWtZNhlJPuY?si=zDvIwO7x3l8STnA_",
+    "demoVideoUrl": "https://www.youtube.com/embed/rZcgHqBmMlI?si=_SHQ558kwDNG43L6"
+  },
+  {
+    "id": "handymen-now",
+    "title": "HandyMen Now",
+    "slug": "handymen-now",
+    "legacyTitle": "Computer Science: HandyMen Now",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "We created a middle man to link customer to contractors for construction jobs, contracts.",
+    "teamMembers": [
+      "Pedro Villegas",
+      "Alexandra Cozar",
+      "Jeremiah Egbodo",
+      "Zubayer Ahmed Sadid"
+    ],
+    "productOwners": [
+      "Pedro Villegas"
+    ],
+    "posterUrl": "https://docs.google.com/presentation/d/1j1c9QzF7ZFOFfciH1i1EnXGVHCBCuYgHoD8-zF7aK3M/edit?usp=sharing",
+    "documentationUrl": "https://docs.google.com/document/d/1sxk7kw3YeDwbrxtZqHWsKwWR0_I5EJea-UeOrZVESS4/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1VjTQR9evybk5daCGgvuCjs7gaxl26mz1taKHInRESMw/edit?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/mzzt6xtc3kI?si=vM6ll73v4sPBvE5I",
+    "demoVideoUrl": "https://www.youtube.com/embed/iHiy4Ce_E40?si=T9S6Wm1Qvejd2nr_"
+  },
+  {
+    "id": "resume-screening-ai",
+    "title": "Resume Screening AI",
+    "slug": "resume-screening-ai",
+    "legacyTitle": "Computer Science: Resume Screening AI",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "AI-powered resume screening tool that extracts key skills and experiences from resumes, compares them against a job description, and generates an estimated match score. The system provides clear feedback on strengths and missing qualifications, and suggests revisions.",
+    "teamMembers": [
+      "Orkhan Fataliyev",
+      "Miguel Castiblanco Melendez",
+      "Daniel Vysokos",
+      "Jesus Andres Vargas",
+      "Sebastian Pablo Ochotorena"
+    ],
+    "productOwners": [
+      "Orkhan Fataliyev"
+    ],
+    "posterUrl": "https://docs.google.com/presentation/d/1XXt0XeQRMsTwn-Ec--d0ncPmCeaxJwiCEoc0gRjmK50/edit?usp=sharing",
+    "documentationUrl": "https://docs.google.com/document/d/1k3a9boi7usF6brORrdDGBHkE9q4PWGSBxOLSmTyHQsY/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1XLSMjSotf2aFcWfdDL2FZurBXflWwZE1yyfeNAtnCvw/edit?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/FtiqlpvhTqQ?si=Y5iAX7tlNxzmOisW",
+    "demoVideoUrl": "https://www.youtube.com/embed/VC_Kt6uMgiI?si=bkHNn2f6P1ZIlluH"
+  },
+  {
+    "id": "lock-and-key-encrypted-password-management-and-collaboration-system",
+    "title": "Lock and Key – Encrypted Password Management and Collaboration System",
+    "slug": "lock-and-key-encrypted-password-management-and-collaboration-system",
+    "legacyTitle": "Cybersecurity: Lock and Key: Encrypted Password Management and Collaboration System",
+    "degreeProgram": "Cybersecurity",
+    "shortDescription": "Lock & Key gives users a secure place to keep all their login details. They can create an account, set passwords, and retrieve them quickly. At the same time, the system handles the heavy encryption work in the background, including safeguards built to withstand future advances in computing.",
+    "teamMembers": [
+      "Christian Dominguez",
+      "Mauricio Ballart Alvarez",
+      "Alexis Henkel",
+      "Isaac Quintero",
+      "Alberto Espinoza"
+    ],
+    "productOwners": [
+      "Mauricio Ballart Alvarez"
+    ],
+    "posterUrl": "https://docs.google.com/presentation/d/1JGE1mFPSvGtdGU9ugFPhThNVe0kC0eUUX_xu1CzxphM/edit?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1UI5WvyutQOTgR-XbuNJN28pQFpJd96uA/view?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1qgF4ZhuirAQnsoaNK36mUQz8iSOeaW54/edit?usp=sharing&ouid=110757266279026233509&rtpof=true&sd=true",
+    "introVideoUrl": "https://www.youtube.com/embed/mob49Vb33gM?si=IH7rwNuhkNGPMLkv",
+    "demoVideoUrl": "https://www.youtube.com/embed/80XHLKjsnjI?si=x7jr-zYJCl00c4VQ"
+  },
+  {
+    "id": "cybersense-training-simulator-for-cyber-security-employee",
+    "title": "CyberSense : Training Simulator for Cyber Security Employee",
+    "slug": "cybersense-training-simulator-for-cyber-security-employee",
+    "legacyTitle": "Cybersecurity: Cybersecurity: Training Simulator for Cyber Security Employee",
+    "degreeProgram": "Cybersecurity",
+    "shortDescription": "Training Simulator for Cyber Security Employee",
+    "teamMembers": [
+      "Isis Gomez",
+      "Manuel Conrad",
+      "Michael Novas",
+      "Kirei Hausheer",
+      "Joaquin Prado"
+    ],
+    "productOwners": [
+      "Isis Gomez"
+    ],
+    "posterUrl": "https://drive.google.com/drive/folders/1jt4SD-fwEWuSN0w205si1lR9vYt_nIaR?usp=sharing",
+    "documentationUrl": "https://drive.google.com/drive/folders/1SqJxPwLoXD34g0OBeE6M3ALE9gbQ5fJf?usp=share_link",
+    "slidesUrl": "https://drive.google.com/drive/folders/1HACWO831UpTiwZMjctoHpX-oeilnpM91?usp=sharing",
+    "introVideoUrl": "https://youtu.be/In6rBbAPnGs",
+    "demoVideoUrl": "https://youtu.be/iJ-FT7_0Alg"
+  },
+  {
+    "id": "stress-and-anxiety-management-application",
+    "title": "Stress and Anxiety Management Application",
+    "slug": "stress-and-anxiety-management-application",
+    "legacyTitle": "Computer Science: Stress and anxiety management app",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "The team developed a cross-platform stress and anxiety management application called HowRu.life. The existing Android app was modernized using Jetpack Compose to improve maintainability, usability, and scalability. In parallel, the team created a new iOS prototype in Flutter, implementing core features such as self-reflection prompts, guided breathing exercises, a mood tracker, and a local SQLite-based database. Both versions focus on delivering a calming, user-friendly experience using reusable UI components and a consistent design chosen by the product owner. The Android app was fully tested and deployed to the Google Play Store, while the iOS version remains a functional prototype. The project concludes with recommendations for improving testing, privacy compliance, and preparing the iOS app for App Store release.",
+    "teamMembers": [
+      "All"
+    ],
+    "productOwners": [
+      "Liane Sangollo"
+    ],
+    "posterUrl": "https://docs.google.com/presentation/d/1ElQK5yXoidUcWAOBgeKHVg4HFWnB1H0h/mobilepresent?slide=id.p1",
+    "documentationUrl": "https://docs.google.com/document/d/1w0jHz6Kjw1jNoMdI2l_cEDbyMUsjnTymoON5FpXx9hE/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1yx7c_xK9omiwnRSwOcFewlMoCe1wKpQp/edit?usp=sharing&ouid=113243065540127867695&rtpof=true&sd=true",
+    "introVideoUrl": "https://youtu.be/2gjb9u4oPx8?si=6PAncQ8BABdEESCV",
+    "demoVideoUrl": "https://youtu.be/cxu-8nxC9LY?si=OsgbONpQCcC7B2V5"
+  },
+  {
+    "id": "secured-med",
+    "title": "Secured Med",
+    "slug": "secured-med",
+    "legacyTitle": "Cybersecurity: Secure Med",
+    "degreeProgram": "Cybersecurity",
+    "shortDescription": "A Cybersecurity Audit Tool for Hospice Patient Data",
+    "teamMembers": [
+      "Stefan Dumitrasku",
+      "Ana Salazar",
+      "Jordan Burgos",
+      "Jeremiah Luzincourt",
+      "Mumin Tahir"
+    ],
+    "productOwners": [
+      "(Stefan Dumitrasku) Mentor: Dr. Masoud Sadjadi"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1xkXM5bsdvkmx0DUKVzNPbsO9v_BRCj-l/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/drive/folders/15E-52tsmyoHOrV8W_fIVbY25iYibq2-w?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1o-bPS-JhQDS6iTFs2TeO0WSr0j19qmu2/edit?usp=sharing&ouid=102967631607740418467&rtpof=true&sd=true",
+    "introVideoUrl": "https://www.youtube.com/embed/RXRdl0xRMNs?si=WsDnEhfRgzY_tz9s",
+    "demoVideoUrl": "https://www.youtube.com/embed/n4NQSxxA0MQ?si=LTJKQrzIAf9dvh_-"
+  },
+  {
+    "id": "framing-by-design",
+    "title": "Framing By Design",
+    "slug": "framing-by-design",
+    "legacyTitle": "Computer Science: Framing by Design: Teaching Empathy and Problem Definition through Game-Based Learning",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "An edutainment game designed to teach players problem solving skills and empathetic conversation strategies",
+    "teamMembers": [
+      "Hossam Keddees",
+      "Bryan Diaz",
+      "Marcus Ragoobar",
+      "Joshua Rodrigues"
+    ],
+    "productOwners": [
+      "Kiesha Moodie"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1jZOky-k0b8dUjmGfETlcX0q5riOB_bhX/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/18UojQXIWMfYjkvu3kiun2yDzKGTxqBx4/view?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1E8zZQb7cEplRAhMgMyeixIBtd890hI7R/edit?usp=sharing&ouid=108236214649146863383&rtpof=true&sd=true",
+    "introVideoUrl": "https://www.youtube.com/embed/DQeYvcYPbO4?si=yCQkj4zSIofczn81",
+    "demoVideoUrl": "https://www.youtube.com/embed/FN3BJ4yHo4g?si=BHaurPRGkBOVJPGA"
+  },
+  {
+    "id": "secure-ai-race-strategy-sars",
+    "title": "Secure AI Race Strategy (SARS)",
+    "slug": "secure-ai-race-strategy-sars",
+    "legacyTitle": "Cybersecurity: AI Race Strategist",
+    "degreeProgram": "Cybersecurity",
+    "shortDescription": "This project created two models, an AI-driven race strategy model and a spoofing protection unit to mitigate any spoofing/data manipulation attacks that could have led the AI model to produce unsafe suggestions. This model highlights the need for vehicle safety.",
+    "teamMembers": [
+      "Ashley Francis",
+      "Reinaldo Contreras",
+      "Jamahl Davis",
+      "Erik Pereda",
+      "Santiago Vargas"
+    ],
+    "productOwners": [
+      "Ashley Francis"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1C683yd7GJPysVEWm2g5n7AnzqQH24xHN/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1EhZqCQoPwpVDEerWXWRHRqpjK_Z-8Fbe/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1Gt8K7njOqKFWs2aiuZGoAQdNCC8w0Ap-/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/MuDiyXhslgQ?si=BC9aLAbNZfXfUOH8",
+    "demoVideoUrl": "https://www.youtube.com/embed/reX6RV9nx3Q?si=9U7rUBjUuxOocIV7"
+  },
+  {
+    "id": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+    "title": "Context-Aware Conversation Support with Augmented Reality and Generative AI",
+    "slug": "context-aware-conversation-support-with-augmented-reality-and-generative-ai",
+    "legacyTitle": "Computer Science: Context-Aware Conversation Support with Augmented Reality and Generative AI",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "Effective and smooth conversations rely on strong social skills and background knowledges. However, gaps in knowledge among participants often disrupt the flow of conversation. For example, a conversational participant might struggle to engage in an effective conversation about planning a trip to Miami if they have never visited before. Recent advances in Generative AI (GenAI) have shown promising capabilities in generating information, while head-mounted Augmented Reality (AR) offers the potential to render and visualize information anywhere in the field of view. However, it remains unclear how GenAI and AR can synergistically support conversations. The overarching goal of this project is to explore the design of an AR-based conversational supporting tools. Ultimately, while wearing the head-mounted AR, useful information should be rendered with right level of details, at the right time and right place in front of the conversational participants.",
+    "teamMembers": [
+      "Sabrina Alvarado",
+      "Keren Rivera",
+      "Jonathan Martinez",
+      "Peace Passos"
+    ],
+    "productOwners": [
+      "Dr. Chen Chen"
+    ],
+    "posterUrl": "https://fiudit-my.sharepoint.com/:b:/r/personal/salva195_fiu_edu/Documents/Attachments/CS-Context-Aware%20Conversation%20Support%20with%20Augmented%20Reality%20and%20Generative%20AI%20(Poster).pdf?csf=1&web=1&e=QwSu10",
+    "documentationUrl": "https://fiudit-my.sharepoint.com/:b:/r/personal/salva195_fiu_edu/Documents/Attachments/Project%20Documentation%20-%20Context-Aware%20Conversation%20Support%20with%20AR%20+%20Generative%20AI.pdf?csf=1&web=1&e=XPgnXl",
+    "slidesUrl": "https://fiudit-my.sharepoint.com/:b:/r/personal/salva195_fiu_edu/Documents/Attachments/CS%20-%20Context-Aware%20Converstion%20Support%20with%20Augmented%20Reality%20and%20Generative%20AI%20(PowerPoint).pdf?csf=1&web=1&e=ZpH6oO",
+    "introVideoUrl": "https://www.youtube.com/embed/HzsAGuxMGbE?si=aiA8l2S5DGLyVYHY",
+    "demoVideoUrl": "https://www.youtube.com/embed/6_Bq56ma3eQ?si=q209LpwZ_asTfHTO"
+  },
+  {
+    "id": "mymedcab-medication-management-system",
+    "title": "MyMedCab - Medication Management System",
+    "slug": "mymedcab-medication-management-system",
+    "legacyTitle": "Computer Science: MyMedCab - Medication Management System",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "A medication management system in the form of a web application that allows users to manage their medications as prescribed to them by their physicians. Users are able to click on a certain medication that they desire and information is displayed such as the dosage, the type of medication, and refill date. Additionally, when a user clicks on a medication, we have a map interface that updates to a respective pharmacy and shows the stock level. Physicians are able to prescribe medications to a patient as well as edit any existing medications, and they are also provided access to a map where they can view the stock level and the pharmacies.",
+    "teamMembers": [
+      "Josue Quinonez",
+      "Cesar Calzadilla",
+      "Daniel (Niel) Escobar",
+      "Francine Portobanco",
+      "Kendrick Belizaire"
+    ],
+    "productOwners": [
+      "Josue Quinonez"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1Iz70ZEgdwW2nGqI3xt06gnkZ3YzPuRnc/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1FrSDjLnN9HyrzzDQgdbXfXuXFC3Q4OoU/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1tAX1owFojonvmIQ4VSPj9Nto4Zqf6zGo/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/cpT686zrLLk?si=ME8erO6xJblRf6Q4",
+    "demoVideoUrl": "https://www.youtube.com/embed/2sM1TP2cOn4?si=qHgUwJEG_Up7jEpz"
+  },
+  {
+    "id": "ai-mock-interview-prep",
+    "title": "AI Mock Interview Prep",
+    "slug": "ai-mock-interview-prep",
+    "legacyTitle": "Information Technology: AI Mock Interview Prep",
+    "degreeProgram": "Information Technology",
+    "shortDescription": "The AI Mock Interview Prep app is a tool that helps students practice for job interviews. It asks interview questions just like a real interview would. Users can answer by typing or speaking. The app gives feedback based on their answers and helps them see what they did well and what they can improve. It is made to help users feel more confident and prepared for real interviews.",
+    "teamMembers": [
+      "Daniella Fuentes",
+      "Lindsay Blais",
+      "and Nakisha Stickland"
+    ],
+    "productOwners": [
+      "Daniella Fuentes"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1eDJltr1P7bmW2mk1EJooAwz3B0YO22lV/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1ayXIxFwF0uToGf7YIAJnjiCatLGroWyN/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1TCojGnDCLtGPHYT28E7bpsOrgt1K0HmK/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/tEw0plE5bsI?si=tXLPQaHWndWnIC9Z",
+    "demoVideoUrl": "https://www.youtube.com/embed/43bJnb96G3A?si=6i1mfuMIF9WM7ITj"
+  },
+  {
+    "id": "echoguard",
+    "title": "EchoGuard",
+    "slug": "echoguard",
+    "legacyTitle": "Computer Science: Audio- and AI-Based Movie Genre and Rating Detector",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "EchoGuard is an AI-based web application that uses a CNN machine learning model to help parents monitor the type of media their kids are consuming.",
+    "teamMembers": [
+      "Abner Rodriguez",
+      "Kevin Sanchez",
+      "Alfonso Contreras",
+      "Carlos Navarro",
+      "Kenneth Martin"
+    ],
+    "productOwners": [
+      "Product Owner: Christian Poellabauer"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1V-0lE4GfbXv0cBtk4mrPwLLMAT3Zzu0j/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1SJMd4W12he_uKGFKDd0gG93jG-vIxLv3/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1v4OdsSyhiplLVID-uopadRFLZtcCHuoW/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/jNRVgff8B6c?si=Ri7xwXccXyvHl_2X",
+    "demoVideoUrl": "https://www.youtube.com/embed/ZLmIjZMEtM4?si=rsnQLXvqtj9tVaOt"
+  },
+  {
+    "id": "control-point",
+    "title": "Control Point",
+    "slug": "control-point",
+    "legacyTitle": "Information Technology: Business Asset Management WebApp",
+    "degreeProgram": "Information Technology",
+    "shortDescription": "A lightweight asset management web application intended for small to medium sized businesses.",
+    "teamMembers": [
+      "Joseph McNulty-Lamparter",
+      "Claudia Cruz Teruel",
+      "David Moore"
+    ],
+    "productOwners": [
+      "Joseph McNulty-Lamparter"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1Fly0yKoNQWvaOUXXcRys3szPGQReICBQ/view",
+    "documentationUrl": "https://drive.google.com/file/d/1KWicdXIMMBJUNBQXdAqL-DrK6YLjojQs/view",
+    "slidesUrl": "https://drive.google.com/file/d/1V9DBdNqmQYt1GxHANhk8kRtdr0-AYWnt/view",
+    "introVideoUrl": "https://www.youtube.com/embed/eYZt4SNSbys",
+    "demoVideoUrl": "https://www.youtube.com/embed/SImBB-wWE7w"
+  },
+  {
+    "id": "usb-drop-attack-simulation",
+    "title": "USB Drop Attack Simulation",
+    "slug": "usb-drop-attack-simulation",
+    "legacyTitle": "Cybersecurity: USB Drop Attacks",
+    "degreeProgram": "Cybersecurity",
+    "shortDescription": "This capstone project focuses on the simulation of a USB drop attack to educate users about the risks associated with unknown USB devices.",
+    "teamMembers": [
+      "Damian Figueroa-Gonzalez",
+      "Amelia DiGennaro",
+      "Barbara Andino",
+      "Moath Hussein"
+    ],
+    "productOwners": [
+      "Damian Figueroa-Gonzalez"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1Z9r9hrq-ZFvQhC_FuO9YeKettoQXJHhf/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1QjNQBWVkAk6oEa7TXHxPy29RL2oI_hrf/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1QOB34-XvW10UZzYefNeJmACnCf8jUBdg/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/0Aw1nRG25pc?si=hGa6E-b3UvaocEXf",
+    "demoVideoUrl": "https://www.youtube.com/embed/yhQV0o1pzvs?si=9_5Lse98uNwgKtKo"
+  },
+  {
+    "id": "computer-equipment-checkout-tracker",
+    "title": "Computer Equipment Checkout Tracker",
+    "slug": "computer-equipment-checkout-tracker",
+    "legacyTitle": "Information Technology: Computer Equipment Checkout Tracker",
+    "degreeProgram": "Information Technology",
+    "shortDescription": "Our project aims to streamline the process of checking out electronic devices utilizing a centralized database for educators and students. Educators are able to easily add and remove devices, see timestamps of when a device is checked out/returned, and be able to see who has the device. Students are able to utilize their school credentials to log in to see which devices are available and see what devices they currently have checked out and return them.",
+    "teamMembers": [
+      "Jayden Sandoval",
+      "Samuel Gonzalez",
+      "Josein Alsadah",
+      "Roberto Ocampo"
+    ],
+    "productOwners": [
+      "Product Owner: Jayden Sandoval. Mentor: N/A"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/16n66gU1mE189BmmxcV8N3A9_GzZmTEQT/view?usp=drive_link",
+    "documentationUrl": "https://drive.google.com/file/d/11bSR4LfwlVEbTCpAz9uv9bDhGK7lkwX3/view?usp=drive_link",
+    "slidesUrl": "https://drive.google.com/file/d/1s22uct_uQC0ZGcyQtHnzEX1NYfLLS_2L/view?usp=drive_link",
+    "introVideoUrl": "https://www.youtube.com/embed/QdFCCo69ylE?si=qtot9JPGFTTWJ_0P",
+    "demoVideoUrl": "https://www.youtube.com/embed/0JcwLlulJ6M?si=R_ZvjyShWqy3I5fI"
+  },
+  {
+    "id": "gamified-habit-tracker",
+    "title": "Gamified Habit Tracker",
+    "slug": "gamified-habit-tracker",
+    "legacyTitle": "Computer Science: Gamified Habit Tracker: Leveling Up Everyday Routines",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "The Gamified Habit Tracker turns real-world habit building into an engaging role-playing game experience where users complete personal quests across health, learning, creativity, and social growth. As users stay consistent, they earn rewards, level up, unlock achievements, and progress through an endless challenge mode where long-term dedication determines how far they advance through increasingly difficult stages. By transforming daily routines into visible progress and meaningful rewards, the system promotes accountability, long-term motivation, and sustainable personal growth.",
+    "teamMembers": [
+      "Bryan A. Fernandez",
+      "Abhiram Bhogi",
+      "Juan Lao Romero",
+      "Shamar Weekes",
+      "George Ulloa"
+    ],
+    "productOwners": [
+      "Bryan A. Fernandez"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1O7eXW9YIg5dthUanGeWHfby4k8WZNh35/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1tsDGm4lbnT6rLEltL1kBU8cMeJ78bIeY/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1qRY-DANLY83GCAybFTltfmvykB2M9YY4/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/ftVc4etq1LY?si=0Fj5ooxub2fR-vgJ",
+    "demoVideoUrl": "https://www.youtube.com/embed/lMSFWhcAY_U?si=tnRclfqOijF0TURG"
+  },
+  {
+    "id": "computer-science-loan-validation",
+    "title": "Computer Science: Loan Validation",
+    "slug": "computer-science-loan-validation",
+    "legacyTitle": "Computer Science: Loan Validation",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "Our project is an automated loan-application validation system that processes applicant documents, extracts key financial information using OCR and AI models, and generates a risk score. The system includes a frontend interface for uploading documents, a FastAPI backend for managing applicants and storing extracted data, and an AI pipeline that analyzes PDFs pulled from the client’s S3 bucket. The final output provides structured fields, document validation results, and a risk assessment for each applicant.",
+    "teamMembers": [
+      "Christoph McPhee",
+      "Ernesto Blanco",
+      "Miguel Restrepo",
+      "Luis Jimenez",
+      "Carlos Hernandez"
+    ],
+    "productOwners": [
+      "Karthikeyan Saravanan"
+    ],
+    "posterUrl": "https://docs.google.com/document/d/16kQ67kgEEdIekXT7ZCnZEJxaxBN4riarzObUOpPVQ9M/edit?usp=sharing",
+    "documentationUrl": "https://docs.google.com/document/d/16Z83SsIZusWbbLCRfun8K8XObsc9xC4_x4-25ugNQSo/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1J4Qx3DReTG8IujDsphdv7Ds1Lnlz-M5p/edit?usp=sharing&ouid=106087245337322288440&rtpof=true&sd=true",
+    "introVideoUrl": "https://www.youtube.com/watch?v=UNQ99JFoKsE",
+    "demoVideoUrl": "https://youtu.be/fp2bSk7y3TU"
+  },
+  {
+    "id": "ai-medical-diagnosis-assistant",
+    "title": "AI Medical Diagnosis Assistant",
+    "slug": "ai-medical-diagnosis-assistant",
+    "legacyTitle": "Computer Science: AI Medical Diagnosis Assistant",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "AI-powered medical diagnostic platform that analyzes clinical symptoms (HPO) and genetic variant data (VCF) to infer likely diseases. Built with a synthetic biomedical dataset, KB-driven symptom ontologies, and ML classifiers trained on combined phenotype-genotype features.",
+    "teamMembers": [
+      "Gavin Diaz",
+      "Pooja Lad",
+      "Stephanie Painchault",
+      "Anncarolyne Power",
+      "Rebeca Serralta"
+    ],
+    "productOwners": [
+      "Product Owner: Pooja Lad"
+    ],
+    "posterUrl": "https://fiudit-my.sharepoint.com/:p:/g/personal/plad002_fiu_edu/IQCewbYpQtMqQZF9KVkGv0cmATefLYnJdKZO_RNsKXlZn-0?e=xPyP83",
+    "documentationUrl": "https://fiudit-my.sharepoint.com/:w:/g/personal/plad002_fiu_edu/IQCnB6qWlGFhTalB9ZH9dRjcAYdj5zNIzJW8oMWgGZRZ0fA?e=koBkDu",
+    "slidesUrl": "https://fiudit-my.sharepoint.com/:p:/g/personal/plad002_fiu_edu/IQCoUO3SmckxRbNOt2Cn9zg_AfqouwVMQk6Jv0HAl0Wj-AU?e=vUXxYh",
+    "introVideoUrl": "https://www.youtube.com/embed/9NIHOMqzYpc?si=yqNncUWkM3n0CaH0",
+    "demoVideoUrl": "https://www.youtube.com/embed/DvmjbZkd6nU?si=Cz_IiwnmLTfGAWJG"
+  },
+  {
+    "id": "christian-pereira",
+    "title": "Christian Pereira",
+    "slug": "christian-pereira",
+    "legacyTitle": "Information Technology: SmartAsset : a web-based IT asset management solution",
+    "degreeProgram": "Information Technology",
+    "shortDescription": "SmartAsset is a centralized IT asset management system built to help organizations track, monitor, and analyze their technology inventory.",
+    "teamMembers": [
+      "Jesus Lara",
+      "Corey Mckelton",
+      "Joselin Rodas-Lopez",
+      "Alexander Benitez"
+    ],
+    "productOwners": [
+      "Christian Pereira"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1dEoy_qse0JTeQ6wgPNKQntPLpuya6mIy/view?usp=drive_link",
+    "documentationUrl": "https://drive.google.com/file/d/1fqfCbHQxBhTVY7ruJzNVkaTZiKIQtKlf/view?usp=drive_link",
+    "slidesUrl": "https://drive.google.com/file/d/17kJGLoNNRHrvV7P5tlHbu-Trer3uHnU8/view?usp=drive_link",
+    "introVideoUrl": "https://www.youtube.com/embed/GiHhc54br-Y?si=Kq5gNpa0fFaNudtm",
+    "demoVideoUrl": "https://www.youtube.com/embed/w0twp_fFDRo?si=ezduA8VH5yOVUxU5"
+  },
+  {
+    "id": "staria-workout-tracker",
+    "title": "Staria - Workout Tracker",
+    "slug": "staria-workout-tracker",
+    "legacyTitle": "Computer Science: Staria Workout App",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "Staria is a free, easy-to-use workout tracking app built to keep fitness simple and effective. It allows users to plan workouts, log exercises, and track progress with a clean, intuitive interface—delivering powerful functionality without unnecessary complexity or cost.",
+    "teamMembers": [
+      "Jorge Pereira",
+      "Alejandro Rodriguez",
+      "Jose Menendez",
+      "Humberto Monguia"
+    ],
+    "productOwners": [
+      "Jorge Pereira"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1KO7FdwgD2wkyVXqdBPA4-Dg42qK2k9gM/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1zsDhfc3UrrdXQmlAbGqxdhcMUs8Joz7U/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1ky-ziDeZTTZ9q4l2JEINATz8IFW7ryKC/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/9Ai0C8Pimlo?si=TA2cdfJ3A2Rp7Lav",
+    "demoVideoUrl": "https://www.youtube.com/embed/gldOIdq9O8A?si=xgu2OT1ymhlxYKQ4"
+  },
+  {
+    "id": "tapin-mma",
+    "title": "TapIn MMA",
+    "slug": "tapin-mma",
+    "legacyTitle": "Computer Science: TapIn MMA",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "TapIn MMA is a platform that centralizes fighter stats, events, and predictive tools into one platform. It bridges the gap between casual fans and serious analysts, enhancing MMA engagement with real-time insights and intuitive visualizations.",
+    "teamMembers": [
+      "Christian Garcia",
+      "Kevin Ferrer",
+      "Bruno Gouveia"
+    ],
+    "productOwners": [
+      "Christian Garcia"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1vYb2fZAFM4AcAaHCrC5YYdxYxhPy8RhB/view",
+    "documentationUrl": "https://drive.google.com/file/d/1AQSz3__GFGK5w2U4bwYA_GjRqyAc-cvY/view",
+    "slidesUrl": "https://drive.google.com/file/d/1i7or9reCIGQ9lzLpCYFJ6kARrlma6gCq/view",
+    "introVideoUrl": "https://www.youtube.com/embed/dBJvA7up3oI?si=_2Zb7lDw91lvFe95",
+    "demoVideoUrl": "https://www.youtube.com/embed/GDcK7CTy6C0?si=6m6HfG8g4c91o5HR"
+  },
+  {
+    "id": "spinewise",
+    "title": "SpineWise",
+    "slug": "spinewise",
+    "legacyTitle": "Computer Science: SpineWise",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "SpineWise is a desktop application for Windows 10/11, macOS Sonoma, and Linux built in Python and operating off of OpenCV, MediaPipe, and PyQt5. It is a lightweight desktop application made for monitoring a user's posture in the background through OpenCV actively, using MediaPipe landmarks to determine the quality of a user's posture. This generates analytics for the user to reflect upon, recommended exercises and products to buy for posture health, and can alert the user immediately when poor posture is held.",
+    "teamMembers": [
+      "Javier Brasil",
+      "Oleh Krainyk",
+      "Juan Mieses",
+      "Jason Pena",
+      "John Pena"
+    ],
+    "productOwners": [
+      "Juan Mieses",
+      "Emdya Permuy-Llovio"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1iSwz7zYSkC7xD-LNhijG8b437ki1396B/view?usp=drive_link",
+    "documentationUrl": "https://drive.google.com/file/d/1Hnc0p3ymJZ9DJQ_gwQRrx_V5s7pyUhMB/view?usp=drive_link",
+    "slidesUrl": "https://drive.google.com/file/d/1IyZY7FLnfqaaIRC-LZZffcOsGqSqOp6I/view?usp=drive_link",
+    "introVideoUrl": "https://www.youtube.com/embed/DJxN5FuCtqI?si=RGTLlU8jpiN2E85x",
+    "demoVideoUrl": "https://www.youtube.com/embed/VWRZShKFDhM?si=aa0NO-Ub1rz2sdwU"
+  },
+  {
+    "id": "ai-driven-warehouse-stock-management",
+    "title": "AI- Driven Warehouse Stock Management",
+    "slug": "ai-driven-warehouse-stock-management",
+    "legacyTitle": "Computer Science: AI-Driven Warehouse Stock Management",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "The AI Driven Warehouse Stock Management platform was created to establish the foundation for an intelligent inventory balancing system. The solution integrates a persistent operational database, a scalable backend, and an interactive dashboard that shows inventory conditions across multiple warehouses. Unlike static systems, it is designed to evolve into an agent-driven platform that continuously monitors stock levels, forecasts demand and recommends transfers with high accuracy.",
+    "teamMembers": [
+      "Momin Salar Khan",
+      "Matt Cobos",
+      "Angela Banov",
+      "Steven Palacios",
+      "Vianne Novo"
+    ],
+    "productOwners": [
+      "Ravi Venugopal"
+    ],
+    "posterUrl": "https://docs.google.com/presentation/d/12ZFk2L5RmjFBDULtSBzpMfCtNTf6yRaRRIUGZyK1IWw/edit?slide=id.p1#slide=id.p1",
+    "documentationUrl": "https://fiudit-my.sharepoint.com/:w:/g/personal/abano011_fiu_edu/IQB8VFzYydshS7Rcvc6X7l8iAcPtSoohq2tnX4PfRG1GckQ?e=jH8Mmk",
+    "slidesUrl": "https://fiudit-my.sharepoint.com/:p:/g/personal/abano011_fiu_edu/IQBbwSLWDf5OTb65b-CFqS8DAQvcI1Fj78WM5mFk7fiBWX0?e=L9GAKj",
+    "introVideoUrl": "https://www.youtube.com/embed/gCI3r9LYEb4?si=tDixW0BizjZSJD36",
+    "demoVideoUrl": "https://www.youtube.com/embed/D7Ao4UWhEvc?si=kPx6zXT8gVFLi0W7"
+  },
+  {
+    "id": "cloud-cost-optimizer-dashboard",
+    "title": "Cloud Cost Optimizer Dashboard",
+    "slug": "cloud-cost-optimizer-dashboard",
+    "legacyTitle": "Computer Science: Cloud Cost Optimizer Dashboard",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "Dashboard the allows users to easily manage their cloud spending.",
+    "teamMembers": [
+      "Daniel Gonzalez",
+      "Sandy Aguilar",
+      "Yasser Blanco Montequin",
+      "Isabel Ruiz",
+      "Favio Valdes"
+    ],
+    "productOwners": [
+      "Daniel Gonzalez",
+      "Masoud Sadjadi"
+    ],
+    "posterUrl": "https://docs.google.com/presentation/d/1cNjZnzeKelRSJdRKcUL-Czi84IZ382xI/edit?usp=sharing&ouid=109318784364671726318&rtpof=true&sd=true",
+    "documentationUrl": "https://docs.google.com/document/d/1Z9ne9RoefU1wXbYwOtZymZINaBExLu3txKnDutXvFXk/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1q_PNHPs3ja6qaa3Xxi3324K-UGBDI9sNUcRDCqMV-uU/edit?usp=sharing",
+    "introVideoUrl": "https://youtu.be/zDanKR8rOig",
+    "demoVideoUrl": "https://youtu.be/VjzncWSVTfU"
+  },
+  {
+    "id": "embedded-programming-copilot-agent",
+    "title": "Embedded Programming Copilot Agent",
+    "slug": "embedded-programming-copilot-agent",
+    "legacyTitle": "Computer Science: Embedded Programming Copilot Agent (IC-Specific AI Assistant)",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "The Embedded Programming Copilot Agent is a chip-aware AI assistant that ingests vendor docs, IDE libraries, and compiler/debug logs to provide accurate firmware suggestions, register configurations, and automated fixes. It streamlines embedded development by shifting it from trial-and-error to guided, context-aware automation.",
+    "teamMembers": [
+      "Henrique Pitta Laranjinha",
+      "Diego Del Valle",
+      "David Quinones",
+      "Alex Arguelles"
+    ],
+    "productOwners": [
+      "Ravi Venugopal"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1h_Eijefpv3DqapT4ymKG79eKcaXQvwpD/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1zoHDBE2GsquZncRUo3LKgZ50u--IlsjI/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1yVMo1jgQhzmo3IF1iYerelS5Qs3Al6oJ/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/uoKoqqEaDy0?si=dtEqfNPylxZ_sR5N",
+    "demoVideoUrl": "https://www.youtube.com/embed/UQaIqB3M7ag?si=KJ-5qB-LpDIPSE4S"
+  },
+  {
+    "id": "expenseflow",
+    "title": "ExpenseFlow",
+    "slug": "expenseflow",
+    "legacyTitle": "Information Technology: Expense Tracker App",
+    "degreeProgram": "Information Technology",
+    "shortDescription": "Dynamic expense saving web application with multiple quality of life features for the end user.",
+    "teamMembers": [
+      "Felipe Lorenzo",
+      "Miguel Lora",
+      "Neha Ninan",
+      "Muhammad Raushaan"
+    ],
+    "productOwners": [
+      "Felipe Lorenzo"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/171qDrCqDkdSgRvAguXDrbOlX1VGrCEqu/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1L0Y5bAwuro464GVRgW9VlzjK-FXiuDHO/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1nLZeOhMImUcOkr2J7vkI8ABt7Sc8niTX/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/C-mWKGCaqKM?si=-OGk4lE-tJgMauMA",
+    "demoVideoUrl": "https://www.youtube.com/embed/OtTnIcJ2miE?si=EUGMU-GidlalVIdD"
+  },
+  {
+    "id": "deploying-a-siem-in-microsoft-azure",
+    "title": "Deploying a SIEM in Microsoft Azure",
+    "slug": "deploying-a-siem-in-microsoft-azure",
+    "legacyTitle": "Cybersecurity: Deploying a SIEM in Microsoft Azure",
+    "degreeProgram": "Cybersecurity",
+    "shortDescription": "By using the cloud-based solution, Microsoft Azure, we can make a contained honeypot and gather failed login events using their SIEM, Sentinel, to create an attack map.",
+    "teamMembers": [
+      "Mateo Escobar",
+      "Nikohl Fuentes",
+      "Ryan Hamel",
+      "Sebastian Medina",
+      "Marian Mora"
+    ],
+    "productOwners": [
+      "Mateo Escobar & Masoud Sadjadi"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1M3mmOv4wMiMXpEKhyp5U8TsmLYq1omA4/view",
+    "documentationUrl": "https://docs.google.com/document/d/10AXa4CjPe0Rt-3yu_I7PZITm6myxOwjKAUQOE05v-uw/edit?tab=t.0",
+    "slidesUrl": "https://drive.google.com/file/d/1t97yLRsgpmDolrnmUgEiX8-7ScFYu2bI/view",
+    "introVideoUrl": "https://www.youtube.com/embed/7yIGJ129fqU?si=-gPH4tbiVATSoUzk",
+    "demoVideoUrl": "https://www.youtube.com/embed/J3wul9yRu_0?si=aWUA2zMXdImxVjmi"
+  },
+  {
+    "id": "codedrill",
+    "title": "CodeDrill",
+    "slug": "codedrill",
+    "legacyTitle": "Computer Science: Mobile app for coding practice",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "A programming app to drill basics as well as data structures and algorithms for practice for programmers at every skill level for the purposes of learning, interview prep, and review.",
+    "teamMembers": [
+      "Alexander Hued",
+      "Nicholas Delgado",
+      "Amanda Bustinza"
+    ],
+    "productOwners": [
+      "Nicholas Delgado"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1_TXPMNSBTCeo30fpoMDXQAabpK6kP1H9/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1RI3hchjS_Obhm3Ibm-AXTJ8GiZnq8yPq/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/10OQBFTMhHCPV9RfoylTJWo1nSRHpgo5c/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/bw2swU9_6DE?si=Ca_xkwnpIdTEjHsF",
+    "demoVideoUrl": "https://www.youtube.com/embed/6XE6_v0eeqQ?si=-WepD6RkD7UbLJw5"
+  },
+  {
+    "id": "loan-validation-system",
+    "title": "Loan Validation System",
+    "slug": "loan-validation-system",
+    "legacyTitle": "Computer Science: Loan Validation",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "Autotmate loan validation process through document verification and risk assessment",
+    "teamMembers": [
+      "Carlos Hernandez",
+      "Luis Jimenez"
+    ],
+    "productOwners": [
+      "Karthkeyan"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1rgfRr2xwmmWSj36Q3w_91KfS83k976b-/view?usp=sharing",
+    "documentationUrl": "https://docs.google.com/document/d/1RBnoPJbKsyIhVgUP9Lrzpp_SMybKVsFDLwkJvTrwPjM/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1J4Qx3DReTG8IujDsphdv7Ds1Lnlz-M5p/mobilepresent?slide=id.p1",
+    "introVideoUrl": "https://youtu.be/fp2bSk7y3TU",
+    "demoVideoUrl": "https://youtu.be/fp2bSk7y3TU"
+  },
+  {
+    "id": "householdhub",
+    "title": "HouseholdHub",
+    "slug": "householdhub",
+    "legacyTitle": "Computer Science: HouseholdHub",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "HouseHub is a centralized household management platform that helps families organize chores, members, communication, and daily workflows through a clear and transparent system. It provides role-based access, task coordination, scheduling, real-time messaging, and notifications to reduce miscommunication and improving household efficiency.",
+    "teamMembers": [
+      "Carlos Escobar Monica Burbano",
+      "Lesly Recendiz",
+      "Bianca",
+      "Recendiz",
+      "Brian Garcia."
+    ],
+    "productOwners": [
+      "Brian Garica - Product Owner"
+    ],
+    "posterUrl": "https://docs.google.com/presentation/d/1lQkInX4Vu4M1IXrK_vfHYRjyoDGjc6Ap/edit?usp=sharing&ouid=114394822956603526071&rtpof=true&sd=true",
+    "documentationUrl": "https://drive.google.com/file/d/1rCUuRbLUid_VTEC7w4jbAlo35sPINCsM/view?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1fUYaR_B9FloTK7coCz_6TAoCgTtdACyO/edit?usp=sharing&ouid=114394822956603526071&rtpof=true&sd=true",
+    "introVideoUrl": "https://www.youtube.com/embed/1H31LE24Hiw?si=DBnjUGq0bwMfpAEj",
+    "demoVideoUrl": "https://www.youtube.com/embed/A50OKP1Vj9g?si=lmPTUu_wD1ClRfmn"
+  },
+  {
+    "id": "l1-sales-synthetic-data-generator",
+    "title": "L1 Sales Synthetic Data Generator",
+    "slug": "l1-sales-synthetic-data-generator",
+    "legacyTitle": "Computer Science: Synthetic L3 Orderbook Data Generator",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "A synthetic data generator that creates statistically similar data to non-stationarity financial data. It creates specifically L1 (Bid / Ask) time-series data, used for financial modeling and risk mitigation.",
+    "teamMembers": [
+      "Mohammad Naqvi",
+      "Luis Moreno",
+      "Stephano Roque"
+    ],
+    "productOwners": [
+      "Mohammad Naqvi",
+      "Luis Moreno",
+      "Stephano"
+    ],
+    "posterUrl": "https://docs.google.com/presentation/d/149yD9LToOG2-rOICSRxwmGTRL1zCnjlRJ5AGFpj97F0/edit?usp=drivesdk",
+    "documentationUrl": "https://docs.google.com/document/d/1B5DgvOFoVHQLaj9RAq5WijDs60rReS6c/edit",
+    "slidesUrl": "https://docs.google.com/presentation/d/1gjqBkDbFtk9ZU22j1RqULoEOdpxOsIyz9yCq-z7P6z8/edit?usp=drivesdk",
+    "introVideoUrl": "https://www.youtube.com/embed/WRIt6T-RUvA?si=mBcqbfKoFdVkFtzY",
+    "demoVideoUrl": "https://www.youtube.com/embed/LZeGo9wzrWw?si=6V8BFw8tN6d-rCQR"
+  },
+  {
+    "id": "artcollab",
+    "title": "ArtCollab",
+    "slug": "artcollab",
+    "legacyTitle": "Computer Science: ArtCollab",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "ArtCollab is an online platform where artists can showcase their work, collaborate on projects, and share feedback in a supportive community. It functions as a digital gallery for paintings, music, designs, illustrations, and storytelling, encouraging cross-disciplinary creativity.",
+    "teamMembers": [
+      "Laura Michelle",
+      "Rodrigo Barrera",
+      "Alejandro Folguiera",
+      "Diego Sarante",
+      "and Olamide Oduntan"
+    ],
+    "productOwners": [
+      "Olamide Oduntan and Masoud Sadjadi"
+    ],
+    "posterUrl": "https://docs.google.com/presentation/d/1_GAOmoupZVGEOIKblrML6PyWFCqDAmnn/edit?usp=sharing&ouid=100822258973373669016&rtpof=true&sd=true",
+    "documentationUrl": "https://docs.google.com/document/d/1sTl3BEqg5qOGu8fEkfc7b_sbKu1tpFbHQV7NQovp5IQ/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1uvjiJ-6YzDBg7rECnLSJfykqD6J2YF44/edit?usp=sharing&ouid=100822258973373669016&rtpof=true&sd=true",
+    "introVideoUrl": "https://www.youtube.com/embed/PbhJl83lOw0?si=ilP22fxfVwmgcWwx",
+    "demoVideoUrl": "https://www.youtube.com/embed/zDuGvjat3dU?si=52VbZYftCSWR3fYa"
+  },
+  {
+    "id": "infrahub",
+    "title": "InfraHub",
+    "slug": "infrahub",
+    "legacyTitle": "Information technology: Automated Dev Environment Builder",
+    "degreeProgram": "Information technology",
+    "shortDescription": "We provide IT administrators a platform to quickly deploy and use pre-built development and test environments while demonstrating a reliable, highly available web infrastructure.",
+    "teamMembers": [
+      "Bryan Hernandez",
+      "Andres Jaimes",
+      "Cesar Pereyra",
+      "Bryan Alberto Garcia",
+      "Tom Mizrachi"
+    ],
+    "productOwners": [
+      "N/A"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1aRuLwBimWR7HbDu6XTlAT9noLXkwYAOh/view?usp=sharing",
+    "documentationUrl": "https://docs.google.com/document/d/1q9qfbdeQm8dz6msbasrryHCkftPKxT7-5CN67iKOSjM/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1NOhF5OLjsE-xuOBgLHQxXKcgrMZfzsfV8NlhX55r9xM/edit?usp=sharing",
+    "introVideoUrl": "https://drive.google.com/file/d/1cxechL2N-V85q9DC8RiSZxApIgjMW4Q2/view?usp=sharing",
+    "demoVideoUrl": "https://drive.google.com/file/d/12mfEBohwvkEeid1wzNZ-naOpdoYjY3h8/view?usp=sharing"
+  },
+  {
+    "id": "smart-appointment-scheduler",
+    "title": "Smart Appointment Scheduler",
+    "slug": "smart-appointment-scheduler",
+    "legacyTitle": "Computer Science: Smart Appointment Scheduler",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "A web app that helps small businesses (like clinics, gyms, or repair shops) manage appointments automatically. Customers can book online, and the system avoids conflicts, sends reminders by email/text, and syncs with Google Calendar. Why it works: Businesses hate missed appointments and double bookings. This solves that problem directly. Deliverables: Booking system, conflict detection, reminders, manager dashboard.",
+    "teamMembers": [
+      "Armand Robinson Jr"
+    ],
+    "productOwners": [
+      "Armand Robinson Jr",
+      "Masoud Sadjadi"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1g7AZg9KfvSVB3dzwYzCBPNFmFBaV_nHC/view?usp=sharing",
+    "documentationUrl": "https://docs.google.com/document/d/1nDpfpAk-HkSLWvboMruLrKW7pQuH0DcNTBiGGSUs1z8/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1ZxfCBtylLvdBEVw6NIhBIrT6gAKj5xLb/edit?usp=sharing&ouid=115401290779971227205&rtpof=true&sd=true",
+    "introVideoUrl": "https://www.youtube.com/embed/Ch8cE0LGNDc?si=WOiEn6SDyNXWiiPB",
+    "demoVideoUrl": "https://www.youtube.com/embed/1-xCkue1K34?si=MC9rLrsUTnjV9FCa"
+  },
+  {
+    "id": "panther-social",
+    "title": "Panther Social",
+    "slug": "panther-social",
+    "legacyTitle": "Computer Science: Campus Social Media App",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "It’s an FIU-exclusive social platform that centralizes student life into one place. Students can sign up, create profiles, follow classmates and organizations, see a personalized feed of posts and events, and join orgs directly. Doing all of this in one app instead of jumping between Instagram, PantherConnect, Discord, and email. The app also includes an FIU-trained RAG chatbot that answers campus-specific questions using real FIU information.",
+    "teamMembers": [
+      "Pierson Mandell",
+      "Jernai Bennett",
+      "Euikyun Ko",
+      "Jeffrey Berdeal",
+      "Jorge Carmenate"
+    ],
+    "productOwners": [
+      "Jernai Bennett",
+      "Pierson Mandell"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/11_OfCnpsnedrp4kp2qGmiguD33fg1FjS/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1O7gyb-HjIGSckHp7XkrIrx4lJkbLgejX/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/13VaoX2vw28RhO7ODkllk7UCxf2VY2Xvr/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/JAH_RmsBFPI?si=wYsF00Xk6k1U6dLV",
+    "demoVideoUrl": "https://www.youtube.com/embed/velZkYDKEkg?si=NvajH5RVebxn0j_f"
+  },
+  {
+    "id": "pyquest",
+    "title": "PyQuest",
+    "slug": "pyquest",
+    "legacyTitle": "Computer Science: LearnCode Game",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "PyQuest is an interactive game for children to learn basic coding principles in Python. They will play levels in which they will open chests and discover lessons. In order to unlock other levels they must fight monsters by answering their questions related to the lesson.",
+    "teamMembers": [
+      "Angel Duarte",
+      "Julian Novak",
+      "Jennifer Mesa",
+      "Ana Maria Martinez",
+      "Jaqueline Lizeth Lopez"
+    ],
+    "productOwners": [
+      "Jennifer Mesa"
+    ],
+    "posterUrl": "https://fiudit-my.sharepoint.com/:b:/g/personal/jmesa074_fiu_edu/IQAHmKucIAd-RaNduVMWOg7sAd_uaAI5140RWszLEbab7LA?e=hcYxBn",
+    "documentationUrl": "https://fiudit-my.sharepoint.com/:b:/g/personal/jmesa074_fiu_edu/IQBIb6BfQ7-ZTYt56coDDzyRAfYQiQ1EWqyJ8xKLMUuieUU?e=IlXxSM",
+    "slidesUrl": "https://fiudit-my.sharepoint.com/:b:/g/personal/jmesa074_fiu_edu/IQBfzDOKcu9gTqfx3JACGFR5AeiW9i8jx8cMkYzFL3vYI7g?e=uvMIvJ",
+    "introVideoUrl": "https://youtu.be/VNWcA2N2oO0",
+    "demoVideoUrl": "https://youtu.be/Qj0qPu3GVY8"
+  },
+  {
+    "id": "duo-sync-authenticator",
+    "title": "Duo Sync Authenticator",
+    "slug": "duo-sync-authenticator",
+    "legacyTitle": "Cybersecurity: Lockstep - 2FA",
+    "degreeProgram": "Cybersecurity",
+    "shortDescription": "A modern, scalable web application built with React, TypeScript, and Supabase. This project implements a secure authentication flow and real-time data synchronization architecture, utilizing a high-performance frontend stack for an optimal user experience.",
+    "teamMembers": [
+      "Eduardo Parrado Arango",
+      "Joshua Aranzazu",
+      "Nelson Rodriguez",
+      "Joshua Conte"
+    ],
+    "productOwners": [
+      "Matthew Chaar"
+    ],
+    "posterUrl": "https://www.dropbox.com/scl/fi/espoalnbg0es266yi70j6/Poster.pdf?rlkey=1pagy3srtg3xpz0e3be1uh6ap&st=24l99wb8&dl=0",
+    "documentationUrl": "https://www.dropbox.com/scl/fi/3mzufddeabb0rgo7di3kz/Project-Doc.pdf?rlkey=3ce1x6wk5qudd6pgvd8ucxdwm&st=bow91gwx&dl=0",
+    "slidesUrl": "https://www.dropbox.com/scl/fi/sn1ir5rhzh1rqblma82bu/Cap-2-Project-Slides.pptx?rlkey=2wmrieempxm0npby7l1sd1lv6&st=da9x7pnr&dl=0",
+    "introVideoUrl": "https://youtu.be/CHsPi5YhcxA",
+    "demoVideoUrl": "https://youtu.be/1sCO_NianeM"
+  },
+  {
+    "id": "truedoor",
+    "title": "TrueDoor",
+    "slug": "truedoor",
+    "legacyTitle": "Computer Science: TrueDoor",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "TrueDoor is a fast, lightweight chrome extension that allows any curious user to quickly and effortlessly search their property value.",
+    "teamMembers": [
+      "Felix Arbucias",
+      "John Corbacho",
+      "Alan Touze",
+      "Isaac Torres"
+    ],
+    "productOwners": [
+      "Felix Arbucias"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1-sdOP0GPjtn3WhYSMq76_INd18H9ABUc/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/17SZLpuQ7j5xd8IpbKSFtoB_rDWcOXBE9/view?usp=drive_link",
+    "slidesUrl": "https://docs.google.com/presentation/d/1pEj7cPO-FVDNxica_B8tn9dXjPAdbbEl/edit?usp=drive_link&ouid=104819637277342312552&rtpof=true&sd=true",
+    "introVideoUrl": "https://www.youtube.com/embed/iLVIQkkW9XE?si=1V3fkw7kDVtCKuBV",
+    "demoVideoUrl": "https://www.youtube.com/embed/sq5j439PaFQ?si=su-UkBRlrsPbxrYs"
+  },
+  {
+    "id": "watchmen-route-over-a-body-of-water",
+    "title": "Watchmen Route Over a Body of Water",
+    "slug": "watchmen-route-over-a-body-of-water",
+    "legacyTitle": "Computer Science: Computing a Watchman Route in a Body of Water for Two Boats",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "A system designed to help lake patrol agencies determine the most efficient patrol routes through lakes containing obstacles such as islands, landmasses, or restricted areas. This project models the lake as a polygon with interior holes and generates an optimized traversal path inspired by the classical Watchman Route Problem.",
+    "teamMembers": [
+      "Raul Herrero",
+      "Yousuf Habouh",
+      "Anaika D. Bien-Aime",
+      "Elier Quesada",
+      "Rosny Antenor",
+      "Gabriel Prieto"
+    ],
+    "productOwners": [
+      "Antonio Hernandez",
+      "Leonardo Bobadilla"
+    ],
+    "posterUrl": "https://docs.google.com/presentation/d/1fQwA3otE1ZyPUoYg1mZ90Erpga5VC1q-rO7NPYp8imk/edit?usp=sharing",
+    "documentationUrl": "https://docs.google.com/document/d/14-MyN_oNlQQ77L9y61WMjRBjw6QtOadELJAdzWzghac/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/19nJb7v8gspINAv4vR6CF9r4DrWDeXIZ7ZS8rzdEHfao/edit?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/Botal5-poXE?si=bYWVfo0g7IY8ms8w",
+    "demoVideoUrl": "https://www.youtube.com/embed/9HFdL4QzQvM?si=8t6O1eVRMyQP46AR"
+  },
+  {
+    "id": "canvas-ai-assistant",
+    "title": "Canvas AI Assistant",
+    "slug": "canvas-ai-assistant",
+    "legacyTitle": "Computer Science: Canvas AI Assistant",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "The Canvas AI Assistant is a system that automatically collects assignments, announcements, and grades from Canvas and allows students to access their coursework through conversational AI, making it easier to stay organized and reduce missed deadlines.",
+    "teamMembers": [
+      "Nitin Chokkalla",
+      "Edgar Velarde",
+      "Alberto Abrahantes",
+      "Sebastian Rodriguez",
+      "Jin Carballosa"
+    ],
+    "productOwners": [
+      "Jin Carballosa"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1w0BDsgf9mTnAlHeMqeIX6YUGSCHCE7wa/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1-9KdPWNciprK8WG6YxwD1NFRNd569roR/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1_NyJTmNflglaUt5RxkhcahU2R5vo7VVZ/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/DPe6hR7p46M?si=V7vcR8cCxqycMK9h",
+    "demoVideoUrl": "https://www.youtube.com/embed/hE4AunZds_Y?si=YOMP2ltVlOkeRx1z"
+  },
+  {
+    "id": "cybersafeguard",
+    "title": "CyberSafeguard",
+    "slug": "cybersafeguard",
+    "legacyTitle": "Information Technology: CyberSafeGuard : an educational cybersecurity website",
+    "degreeProgram": "Information Technology",
+    "shortDescription": "CyberSafeGuard is a simple, beginner friendly website created to help users understand essential cybersecurity topics.",
+    "teamMembers": [
+      "GIORDANO GALARCE",
+      "ANH HONG",
+      "TAYRON VILLAGRAN",
+      "HEIDY VELIZ"
+    ],
+    "productOwners": [
+      "Giordano Galarce"
+    ],
+    "posterUrl": "https://drive.google.com/drive/folders/1c3uvU8YKnCMuTo-k-V-1q--IYYrOWkVP",
+    "documentationUrl": "https://drive.google.com/drive/folders/1c3uvU8YKnCMuTo-k-V-1q--IYYrOWkVP",
+    "slidesUrl": "https://drive.google.com/drive/folders/1c3uvU8YKnCMuTo-k-V-1q--IYYrOWkVP",
+    "introVideoUrl": "https://www.youtube.com/embed/UdjVP-mZTfA?si=C9ITB6M1eoL29iHz",
+    "demoVideoUrl": "https://www.youtube.com/embed/7spqV0Q-Xkk?si=8UFfI9ZbA4VVpeDP"
+  },
+  {
+    "id": "she",
+    "title": "SHE<CODES/>",
+    "slug": "she",
+    "legacyTitle": "Computer Science: SHE<Codes/> - Inspiring Young Women and Queer Youth in STEM",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "SHE<Codes/> is a narrative coding game designed to inspire young women and queer youth to explore careers in computer science and STEM. Instead of traditional tutorials, the game introduces programming concepts through interactive stories with historical pioneers such as Ada Lovelace, Grace Hopper, Alan Turing, and Katherine Johnson. The goal is to make coding feel empowering, inclusive, and creative while applying software engineering fundamentals and computer science theory to be able to reflect back on all the contributions made by these pioneers.",
+    "teamMembers": [
+      "Alessandra Ortega Arrieta",
+      "Rajiv Chevannes",
+      "Bruna Gentil",
+      "Farjana Islam Rahin",
+      "Gabriel Suarez"
+    ],
+    "productOwners": [
+      "Alessandra Ortega"
+    ],
+    "posterUrl": "https://fiudit-my.sharepoint.com/:p:/g/personal/frahi003_fiu_edu/IQBnh6nxqzEEQZque1s0V9TiAaq3h9xXrD5bCEtmtZma-Cc?e=9OPTrj",
+    "documentationUrl": "https://docs.google.com/document/d/1FWNypDVBIoFnsEavkiRbk0Ly0ExPQSxo7IxyjwtjCW4/edit?usp=sharing",
+    "slidesUrl": "https://docs.google.com/presentation/d/1JVBTlwTR7k3oQZqGKdqG-QTfjQjU3CFArCtMVZpnexw/edit?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/hoswx01KX30?si=zzFGeZ0ibvWE0HuI",
+    "demoVideoUrl": "https://www.youtube.com/embed/Kp0kivIYBeY?si=ECJ1kNqJHTcG98K_"
+  },
+  {
+    "id": "briskrecall",
+    "title": "BriskRecall",
+    "slug": "briskrecall",
+    "legacyTitle": "Computer Science: BriskRecall",
+    "degreeProgram": "Computer Science",
+    "shortDescription": "BriskRecall is an AI powered tool that aims to aid students by creating flashcards from study materials (PDF Files).",
+    "teamMembers": [
+      "Luis Delgado",
+      "Ana Oliveira",
+      "Gaeldesh Demosthene",
+      "Andres Hernandez"
+    ],
+    "productOwners": [
+      "Luis Delgado"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1xO2U_qGcP61PoQ2ElUN6eP_JwAGGTndr/view?usp=sharing",
+    "documentationUrl": "https://drive.google.com/file/d/1j2_7l04XWDzJXDD9L8F1tlP27sjwbQKZ/view?usp=sharing",
+    "slidesUrl": "https://drive.google.com/file/d/1YxF7MC2QBQYPgtsnhqoA2NtRJYX0PIBc/view?usp=sharing",
+    "introVideoUrl": "https://www.youtube.com/embed/or0020-0lF4?si=wpxvzdlGfo0d-AZi",
+    "demoVideoUrl": "https://www.youtube.com/embed/S1LjWKJfRUw?si=jtzrOQatV1RiDEyD"
+  },
+  {
+    "id": "nook-student-collaboration-app",
+    "title": "Nook: Student Collaboration APP",
+    "slug": "nook-student-collaboration-app",
+    "legacyTitle": "Information Technology: Verified Student Group Collaboration Chat (FULL)",
+    "degreeProgram": "Information Technology",
+    "shortDescription": "Nook is a comprehensive, security-first collaboration platform designed exclusively for university students. It addresses the critical challenge of workflow fragmentation by integrating secure messaging, document sharing, and project management into a single, unified application.",
+    "teamMembers": [
+      "Patrick Davenport",
+      "Jonathan Powell",
+      "David Morales"
+    ],
+    "productOwners": [
+      "Seyedmasoud Sadjadi"
+    ],
+    "posterUrl": "https://drive.google.com/file/d/1ALVrwiJoUZTAOZ8bR_dSlne6sXePr-tR/view?usp=drive_link",
+    "documentationUrl": "https://docs.google.com/document/d/1wGrad_Kg22EcHnPu6LmOJGFGBflqoQhG/edit?usp=drive_link&ouid=113752786186773665795&rtpof=true&sd=true",
+    "slidesUrl": "https://drive.google.com/file/d/1UzF3UIdgYtV0szFzL8FavF7yl17Jhsu7/view?usp=drive_link",
+    "introVideoUrl": "https://www.youtube.com/embed/NOQAc8VSbtE?si=wfDlqwOvfexIXUI6",
+    "demoVideoUrl": "https://www.youtube.com/embed/Kzj4XeX1Ryc?si=VphhBO0IlOwVr6k7"
   }
 ]

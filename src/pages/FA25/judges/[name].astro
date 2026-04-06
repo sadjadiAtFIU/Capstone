@@ -1,0 +1,51 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import semesterMeta from "../../../../data/semesters/FA25/semester.json";
+import judges from "../../../../data/semesters/FA25/judges.json";
+
+export async function getStaticPaths() {
+  return judges.map((judge) => ({
+    params: { name: encodeURIComponent(judge.name) },
+    props: { judge }
+  }));
+}
+
+const { judge } = Astro.props;
+---
+<BaseLayout title={`${judge.name} | ${semesterMeta.title}`}>
+  <section class="hero">
+    <div class="shell">
+      <div class="hero-card">
+        <p class="eyebrow">{semesterMeta.code} Judge Assignments</p>
+        <h1>{judge.name}</h1>
+        <p class="lede">
+          {judge.jobTitle}{judge.company ? ` · ${judge.company}` : ""}
+        </p>
+        <div class="actions">
+          <a class="button secondary" href="/FA25/judges/">Back to Judges</a>
+          <a class="button" href="/FA25/projects/">Projects</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="shell">
+    <div class="panel">
+      <table>
+        <thead>
+          <tr>
+            <th>Time</th>
+            <th>Project</th>
+          </tr>
+        </thead>
+        <tbody>
+          {judge.slots.map((slot) => (
+            <tr>
+              <td>{slot.time}</td>
+              <td>{slot.degreeProgram}: {slot.projectTitle}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+</BaseLayout>

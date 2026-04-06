@@ -19,13 +19,15 @@ import judges from "../../../../data/semesters/FA25/judges.json";
         <thead>
           <tr>
             <th>Name</th>
+            <th>Role</th>
             <th>Assignments</th>
           </tr>
         </thead>
         <tbody>
           {judges.map((judge) => (
             <tr>
-              <td>{judge.name}</td>
+              <td><a href={`/FA25/judges/${encodeURIComponent(judge.name)}/`}>{judge.name}</a></td>
+              <td>{judge.jobTitle}{judge.company ? ` · ${judge.company}` : ""}</td>
               <td>{judge.slots.map((slot) => `${slot.time}: ${slot.degreeProgram}: ${slot.projectTitle}`).join(" | ")}</td>
             </tr>
           ))}

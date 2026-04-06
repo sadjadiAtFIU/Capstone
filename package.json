@@ -10,6 +10,7 @@
     "check": "astro check",
     "sync": "astro sync",
     "fetch:sheet": "node scripts/fetch-sheet.mjs",
+    "import:fa25": "python3 scripts/import-fa25.py",
     "deploy:fiu": "bash scripts/deploy-fiu.sh"
   },
   "dependencies": {
